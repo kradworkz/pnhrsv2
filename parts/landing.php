@@ -43,7 +43,7 @@
             </ul>
         </div>
     </div>
-    <div v-else style="scale: 0.4; margin-top: -200px; margin-left: -150px;">
+    <div v-else style="scale: 0.4; margin-top: -200px; margin-left: -200px;">
         <ul id="map">
             <li @click="openmodal(1)" class="stacruz zoom"></li>
             <li class="vinta3"></li>
