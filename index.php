@@ -33,9 +33,6 @@
             <nav v-if="show == true && content != 'island' && content != 'register' && content != 'exhibit'" class="navbar navbar-expand-lg navigation fixed-top sticky">
                 <?php require_once("parts/navigation.php"); ?>
             </nav>
-            <nav v-if="isMobile()" class="navbar navbar-expand-lg navigation fixed-top sticky">
-                <?php require_once("parts/navigation-mobile.php"); ?>
-            </nav>
 
             <section v-if="content == 'island'" class="section hero-section" id="home" style="background-color:  #4ea8ff; height: 100vh; overflow: hidden;">
                 <?php require_once("parts/landing.php"); ?>

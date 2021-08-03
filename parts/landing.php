@@ -60,12 +60,14 @@
     <a @click="view('faqs')"><img class="faq" src="assets/images/landing/new/designs/faq.png" onmouseover="this.src='assets/images/landing/new/designs/e-5.png'" onmouseout="this.src='assets/images/landing/new/designs/faq.png'"></a> 
     <a @click="view('resources')"><img class="resources" src="assets/images/landing/new/designs/resources.png" onmouseover="this.src='assets/images/landing/new/designs/e-6.png'" onmouseout="this.src='assets/images/landing/new/designs/resources.png'"></a> 
     
-    <a href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
-    <a href="https://region9.dost.gov.ph" target="_blank"><img class="l-1" src="assets/images/krad/dost.png"></a>
-    <a href="https://www.pchrd.dost.gov.ph" target="_blank"><img class="l-2" src="assets/images/krad/pchrd.png"></a>
-    <a href="region9.healthresearch.ph" target="_blank"><img class="l-3" src="assets/images/krad/zchrd.png"></a>
-    <a href="https://up.edu.ph" target="_blank"><img class="l-4" src="assets/images/krad/up.png"></a>
-    <a href="https://doh.gov.ph" target="_blank"><img class="l-5" src="assets/images/krad/doh.png"></a>
-    <a href="https://ched.gov.ph" target="_blank"><img class="l-6" src="assets/images/krad/ched.png"></a>
+    <div v-if="!isMobile()">
+        <a href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
+        <a href="https://region9.dost.gov.ph" target="_blank"><img class="l-1" src="assets/images/krad/dost.png"></a>
+        <a href="https://www.pchrd.dost.gov.ph" target="_blank"><img class="l-2" src="assets/images/krad/pchrd.png"></a>
+        <a href="region9.healthresearch.ph" target="_blank"><img class="l-3" src="assets/images/krad/zchrd.png"></a>
+        <a href="https://up.edu.ph" target="_blank"><img class="l-4" src="assets/images/krad/up.png"></a>
+        <a href="https://doh.gov.ph" target="_blank"><img class="l-5" src="assets/images/krad/doh.png"></a>
+        <a href="https://ched.gov.ph" target="_blank"><img class="l-6" src="assets/images/krad/ched.png"></a>
+    </div>
     <img class="plane" src="assets/images/landing/new/designs/plane.png">
 </div>
