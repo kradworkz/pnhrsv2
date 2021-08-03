@@ -1,11 +1,49 @@
-<div v-if="!isMobile()"class="bg-overlay bg-primary"></div>
+<div v-if="!isMobile()" class="bg-overlay bg-primary"></div>
 <div v-if="isMobile()" style="margin-top: -110px; margin-left: 15px;">
     <h6 class="text-white fw-semibold mb-2"><p style="font-size : 14px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 16px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
     <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-10 text-white" style="margin-right: 16px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
     <span class="font-size-10 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
 </div>
 <div class="">
-    <div class="row align-items-center" style="margin-top: -100px; margin-left: 20px;">
+    <div v-if="!isMobile()" class="row align-items-center" style="margin-top: -100px; margin-left: 20px;">
+        <div class="col-lg-12">
+            <ul id="map">
+                <!-- <li @click="openmodal(1)" class="dakak zoom"></li>     -->
+                <li @click="openmodal(1)" class="stacruz zoom"></li>
+                <li class="vinta3"></li>
+                <li @click="openmodal(8)" class="merloquet zoom"></li>
+                <li @click="openmodal(8)" class="cityhall zoom"></li>
+                <li @click="openmodal(13)" class="sm zoom"></li>
+                <li @click="openmodal(14)" class="kcc zoom"></li>
+                <li class="adzu zoom"></li>
+                <li  @click="openmodal(9)" class="fortpillar zoom"></li>
+                <li class="barter zoom"></li>
+                <li class="police zoom"></li>
+                <li @click="openmodal(19)" class="airport zoom"></li>
+                <li class="zcmc zoom"></li>
+                <li class="brent zoom"></li>
+                <li class="ciudad zoom"></li>
+                <li class="cho zoom"></li>
+                <li class="dost zoom"></li>
+                <li class="mosque zoom"></li>
+                <li class="church zoom"></li>
+                <li class="uz zoom"></li>
+                <li class="dswd zoom"></li>
+                <li class="bus zoom"></li>
+                <li class="psa zoom"></li>
+                <li class="yakan zoom"></li>
+                <li class="ched zoom"></li>
+                <li class="doh zoom"></li>
+                <li class="seaport zoom"></li>
+                <li class="zscmst zoom"></li>
+                <li class="fire zoom"></li>
+                <li class="treehouse zoom"></li>
+                <li class="vinta2"></li>
+                <!-- <li href="register.php" target="_blank"><li class="register bx-tada"></li></a> -->
+            </ul>
+        </div>
+    </div>
+    <div v-else style="margin-top: -100px; margin-left: 20px;">
         <div class="col-lg-12">
             <ul id="map">
                 <!-- <li @click="openmodal(1)" class="dakak zoom"></li>     -->
