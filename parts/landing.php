@@ -43,7 +43,7 @@
             </ul>
         </div>
     </div>
-    <div v-else style="scale: 0.4; margin-top: -200px; margin-left: -235px;">
+    <div id="320" v-else style="scale: 0.8; margin-top: -200px; margin-left: -370px;">
         <ul id="map">
             <li @click="openmodal(1)" class="stacruz zoom"></li>
             <li class="vinta3"></li>
@@ -91,7 +91,7 @@
         <div class="cloud x5"></div>
     </div> 
 
-    <div v-if="!isMobile()">
+    <div v-if="!isMobile()" class="menuhihi">
         <img class="menu" src="assets/images/landing/new/designs/menu.png">
         <a @click="view('about')"><img class="about" src="assets/images/landing/new/designs/about.png" onmouseover="this.src='assets/images/landing/new/designs/e-3.png'" onmouseout="this.src='assets/images/landing/new/designs/about.png'"></a>
         <a @click="view('events')"><img class="events" src="assets/images/landing/new/designs/events.png" onmouseover="this.src='assets/images/landing/new/designs/e-2.png'" onmouseout="this.src='assets/images/landing/new/designs/events.png'"></a>
@@ -101,7 +101,7 @@
         <a @click="view('resources')"><img class="resources" src="assets/images/landing/new/designs/resources.png" onmouseover="this.src='assets/images/landing/new/designs/e-6.png'" onmouseout="this.src='assets/images/landing/new/designs/resources.png'"></a> 
     </div>
     <div v-if="!isMobile()">
-        <a href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
+        <a class="wew" href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
         <a href="https://region9.dost.gov.ph" target="_blank"><img class="l-1" src="assets/images/krad/dost.png"></a>
         <a href="https://www.pchrd.dost.gov.ph" target="_blank"><img class="l-2" src="assets/images/krad/pchrd.png"></a>
         <a href="region9.healthresearch.ph" target="_blank"><img class="l-3" src="assets/images/krad/zchrd.png"></a>

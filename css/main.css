@@ -38,11 +38,29 @@
 	  }
   }
 
+  @media screen and  (min-width: 800px) and (max-width: 900px) {
+	#map {
+		margin-top: -240px;
+		margin-left: -130px;
+		-moz-transform: scale(0.5);
+	  }
+	  .menuhihi{
+		/* -moz-transform: scale(0.5); */
+		margin-top: -300px;
+	  }
+	  .wew {
+		width:200px;
+		height: auto;
+	  }
+  } 
+
   @media screen and  (min-width: 320px) and (max-width: 768px) {
 	#map {
-		margin-left: auto;
-		margin-right: auto;
 		margin-top: -120px;
+		margin-left: -130px;
+		-moz-transform: scale(0.2);
+	  }
+	  .menu {
 		-moz-transform: scale(0.2);
 	  }
   } 

@@ -14,9 +14,9 @@
         <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/lobby.css" id="app-style" rel="stylesheet" type="text/css" />
+        <link href="assets/css/plane.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/animation.css" id="app-style" rel="stylesheet" type="text/css" />
-        <link href="assets/css/plane.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet" type="text/css" />
         <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" rel="stylesheet" type="text/css" />
         <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
