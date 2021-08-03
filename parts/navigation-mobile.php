@@ -1,8 +1,4 @@
 <div class="container">
-    <a class="navbar-logo" href="https://14thpnhrsweekcelebration.dost9.ph/register.php">
-        <img src="assets/images/logo-long-l.png" alt="" class=" logo-dark" height="50">
-        <img src="assets/images/logo-long-l.png" alt="" class=" logo-light" height="50">
-    </a>
 
     <button type="button" class="btn btn-sm px-3 font-size-16 d-lg-none header-item waves-effect waves-light" data-toggle="collapse" data-target="#topnav-menu-content">
         <i class='bx bx-list-ul'></i>
