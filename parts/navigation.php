@@ -5,7 +5,7 @@
     </a>
 
     <button type="button" class="btn btn-sm px-3 font-size-16 d-lg-none header-item waves-effect waves-light" data-toggle="collapse" data-target="#topnav-menu-content">
-        <i class="fa fa-fw fa-bars"></i>
+        <i class='bx bx-list-ul'></i>
     </button>
 
     <div class="collapse navbar-collapse" id="topnav-menu-content">
