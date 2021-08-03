@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navigation fixed-top sticky navy" v-if="content == 'register' && content == 'exhibit'">
+<nav class="navbar navbar-expand-lg navigation fixed-top sticky navy" v-if="content == 'register'">
     <div class="container">
         <a class="navbar-logo" href="index.php">
             <img src="assets/images/logo-dark.png" alt="" height="19" class="logo-dark">
