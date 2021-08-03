@@ -1,0 +1,61 @@
+
+.zoom2 {
+	/* transition: all .5s ease-in-out; */
+	transition: transform .5s; 
+}
+.zoom2:hover {
+	transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+ul#lobby{
+    list-style: none;
+	width: 1280px;
+	height: 500px;
+    position: relative;
+	background: url(../../assets/images/landing/new/lobby.jpg) center no-repeat;
+    background-size: contain;
+    margin-left: -100px;
+	/* margin: auto; */
+}
+
+ul#lobby li{
+	position: absolute;
+}
+
+
+.l-about {
+	width: 151px;
+    height: 37px;
+    bottom: 412px;
+    left: 391px;
+    scale: 0.7;
+    background-image: url(../../assets/images/landing/new/about.png);
+}
+
+
+.l-guidelines {
+	width: 129px;
+    height: 16px;
+    bottom: 424px;
+    left: 753px;
+    scale: 0.7;
+    background-image: url(../../assets/images/landing/new/guidelines.png);
+}
+
+.l-student {
+	width: 166px;
+    height: 36px;
+    bottom: 264px;
+    left: 375px;
+    scale: 0.7;
+    background-image: url(../../assets/images/landing/new/student.png);
+}
+
+.l-pro {
+	width: 166px;
+    height: 36px;
+    bottom: 264px;
+    left: 755px;
+    scale: 0.7;
+    background-image: url(../../assets/images/landing/new/pro.png);
+}

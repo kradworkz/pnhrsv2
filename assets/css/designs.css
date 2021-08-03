@@ -1,0 +1,230 @@
+.stone1{
+  left: calc(441px + var(--left));
+  top: 402px;
+  width: 26px;
+  height:auto;
+  position: absolute;
+  transition: transform .5s; 
+}
+
+.stone2{
+  left: calc(665px + var(--left));
+  top: 529px;
+  width: 26px;
+  height:auto;
+  position: absolute;
+  transition: transform .5s; 
+}
+
+.cityhalllyt{
+    left: calc(834px + var(--left));
+    top: 169px;
+    width: 13px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .solo1{
+    left: calc(741px + var(--left));
+    top: 226px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+  
+  .solo2{
+    left: calc(586px + var(--left));
+    top: 217px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .double1{
+    left: calc(675px + var(--left));
+    top: 263px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .double2{
+    left: calc(398px + var(--left));
+    top: 228px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .sign1{
+    left: calc(552px + var(--left));
+    top: 278px;
+    width: 12px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  
+  .pot1{
+    left: calc(622px + var(--left));
+    top: 443px;
+    width: 25px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .policecar1{
+    left: calc(735px + var(--left));;
+    top: 447px;
+    width: 30px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  
+  .policecar2{
+    left: calc(951px + var(--left));
+    top: 348px;
+    width: 30px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .ambulance1{
+    left: calc(445px + var(--left));
+    top: 361px;
+    width: 30px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .firetruck1{
+    left: calc(249px + var(--left));
+    top: 283px;
+    width: 40px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  
+  .policemotor1{
+    left: calc(476px + var(--left));
+    top: 176px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .policemotor2{
+    left: calc(778px + var(--left));
+    top: 235px;
+    width: 15px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .coconut{
+    left: calc(251px + var(--left));
+    top: 304px;
+    width: 64px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .jungle{
+    left: calc(297px + var(--left));
+    top: 329px;
+    width: 58px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .camping{
+    left:calc(230px + var(--left));
+    top: 408px;
+    width: 69px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .vinta2 {
+    left: 850px;
+    top: 540px;
+    width: 4%;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+    animation: nudge 40s linear infinite alternate;
+  }
+
+  .vinta3 {
+    top: 420px;
+    left: 450px;
+    width: 2%;
+    height:auto;
+    position: absolute;
+    transition: transform .5s;  
+    animation: nudge2 20s linear infinite alternate;
+    transform: scaleX(-1);
+  }
+
+  .plane {
+    top: 150px;
+    width: 25%;
+    height:auto;
+    position: absolute;
+    animation: slide 10s 1 linear forwards;
+  }
+
+  @keyframes slide {
+    100% {
+     left: 0%;
+    opacity: 0;
+    }
+    90% {
+      opacity: 1;
+    }
+    50% {
+      left: 50%;
+      opacity: 1;
+    }
+    0% {
+      left: 100%;
+      opacity: 1;
+      display: none;
+    }
+  }
+
+  @keyframes nudge {
+    0%{
+      left: 40%;
+    }
+    50% {
+     left: 70%
+    }
+  }
+
+  @keyframes nudge2 {
+    0%{
+      left: 40%;
+    }
+    50% {
+     left: 33%
+    }
+  }

@@ -1,0 +1,419 @@
+{
+    "first" : [
+        {
+            "title" : "South Luzon Cluster",
+            "date" : "August 03, 2021",
+            "time" : "8AM - 12NN",
+            "link" : "https://us02web.zoom.us/webinar/register/WN_B1HGEtFjQjyqjJQXl_KWGw",
+            "option" : "",
+            "images" : [
+                {
+                    "name" : "assets/images/landing/sessions/southluzon/1.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/southluzon/2.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/southluzon/3.jpg"
+                }
+            ]
+        },
+        {
+            "title" : "North Luzon Cluster",
+            "date" : "August 04, 2021",
+            "time" : "8AM - 12NN",
+            "link" : "https://zoom.us/webinar/register/WN_qrQQF9gaQzua-A2-pTuRSg",
+            "option" : "",
+            "images" : [
+                {
+                    "name" : "assets/images/landing/sessions/northluzon/1.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/northluzon/2.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/northluzon/3.jpg"
+                }
+            ]
+        },
+        {
+            "title" : "Visayas Cluster",
+            "date" : "August 05, 2021",
+            "time" : "8AM - 12NN",
+            "link" : "https://us02web.zoom.us/webinar/register/WN_BUZ-ntn_SI-I9qMJyMVuKA",
+            "option" : "",
+            "images" : [
+                {
+                    "name" : "assets/images/landing/sessions/visayas/1.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/visayas/2.jpg"
+                }
+            ]
+        },
+        {
+            "title" : "Mindanao Cluster",
+            "date" : "August 06, 2021",
+            "time" : "8AM - 12NN",
+            "link" : "https://us02web.zoom.us/webinar/register/WN_6k1-qA-5RUe7F231-IPuow",
+            "option" : "",
+            "images" : [
+                {
+                    "name" : "assets/images/landing/sessions/mindanao/1.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/mindanao/2.jpg"
+                },
+                {
+                    "name" : "assets/images/landing/sessions/mindanao/3.jpg"
+                }
+            ]
+        }
+    ],
+    
+    "second" : [
+         [
+            {
+                "title" : "Oral Research Paper Presentation (Student Category)",
+                "date" : "August 09, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_HSzgJC2YSMKtazgiE_MFiA",
+                "option" : ""
+            },
+            {
+                "title" : "Session on Social Innovation in Health Research",
+                "date" : "August 09, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_4V-Qlp41TyCDokWC1bot3A",
+                "option" : ""
+            }, 
+            {
+                "title" : "Oral Research Paper Presentation (Professional Category)",
+                "date" : "August 09, 2021",
+                "time" : "1PM - 4PM",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_wvTDUmJWQV23CQEbFnm3DQ",
+                "option" : ""
+            }
+        ],
+
+        [
+            {
+                "title" : "Research in Global Health Emergencies: The Nuffield Council Moral Compass and Good Participatory Practice",
+                "date" : "August 10, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_s-isBFZESkinjrB_YXkQ8g",
+                "option" : ""
+            },
+            {
+                "title" : "3-Minute Pitch to Policymakers Competition",
+                "date" : "August 10, 2021",
+                "time" : "1PM - 4PM",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_KvBNGA_GT3q9TGLaxFEjIg",
+                "option" : ""
+            }
+        ],
+        [
+           
+            {
+                "title" : "Visual Abstract Poster Competition (Student and Professional)",
+                "date" : "August 11, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "",
+                "option" : "By Invitation Only"
+            },
+            {
+                "title" : "Practical Training for REC Members and Staff",
+                "date" : "August 11, 2021",
+                "time" : "8AM - 4PM",
+                "link" : "",
+                "option" : "By Invitation Only"
+            }
+        ]
+       
+    ],
+
+    "third" : [
+        [
+            {
+                "title" : "14th PNHRS Week Celebration Opening Ceremonies and Plenary 1: Changing Landscape of Universal Health Care: Paradigm Shifts in Health R&D",
+                "option" : "",
+                "time" : "8AM - 12:00NN",
+                "date" : "August 12, 2021",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_5aRz2YXGQBa_bxW6RRTdJg"
+
+            },
+            {
+                "title" : "Parallel Session 1: Implications of the New Normal on Health Technology Assessment",
+                "option" : "",
+                "time" : "1PM -3PM",
+                "date" : "August 12, 2021",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_-1fQ80W0RkiHE00v35EuEg"
+            },
+            {
+                "title" : "Parallel Session 2: Enhancing the Country’s Bio-Preparedness for COVID-19 and other Emerging Infectious Diseases",
+                "option" : "",
+                "time" : "1PM -3PM",
+                "date" : "August 12, 2021",
+                "link" : "https://us02web.zoom.us/meeting/register/tZwtce6tqjMvHtdrE5V-Lp8zxdK007HBwqXn"
+            },
+            {
+                "title" : "Parallel Session 3: Harnessing International Collaborations and Engagement of Stakeholders to Maximize Health Research Impact",
+                "option" : "",
+                "time" : "1PM -3PM",
+                "date" : "August 12, 2021",
+                "link" : "https://us02web.zoom.us/meeting/register/tZMpdOqupz0sE93vzwng7HAXBcziWyH68Fhb"
+            }
+        ],
+        [
+            {
+                "title" : "Plenary 2: LGU COVID-19 Response: Sharing of Collaborative Practices in Disease Prevention and Control, and Closing and Awarding Ceremonies",
+                "option" : "",
+                "time" : "8AM - 10AM",
+                "date" : "August 13, 2021",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_s8n4xox2Sq25zNmwON-uTw"
+            }
+        ]
+    ],
+
+    "fourth" : [
+           {
+               "title" : "Oral Research Presentation - Student Category",
+               "date" : "August 09, 2021",
+               "time" : "8AM - 12NN",
+               "link" : "https://us02web.zoom.us/webinar/register/WN_HSzgJC2YSMKtazgiE_MFiA",
+               "option" : "",
+               "color" : "danger"
+           },
+           {
+               "title" : "Session on Social Innovation in Health Research",
+               "date" : "August 09, 2021",
+               "time" : "8AM - 12NN",
+               "link" : "https://us02web.zoom.us/webinar/register/WN_4V-Qlp41TyCDokWC1bot3A",
+               "option" : "",
+               "color" : "danger"
+           }, 
+           {
+               "title" : "Oral Research Presentation - Professional Category",
+               "date" : "August 09, 2021",
+               "time" : "1PM - 4PM",
+               "link" : "https://us02web.zoom.us/webinar/register/WN_wvTDUmJWQV23CQEbFnm3DQ",
+               "option" : "",
+               "color" : "danger"
+           },
+           {
+               "title" : "Research in Global Health Emergencies: The Nuffield Council Moral Compass and Good Participatory Practice",
+               "date" : "August 10, 2021",
+               "time" : "8AM - 12NN",
+               "link" : "https://us02web.zoom.us/webinar/register/WN_s-isBFZESkinjrB_YXkQ8g",
+               "option" : "",
+               "color" : "warning"
+           },
+           {
+               "title" : "3-Minute Pitch to Policymakers Competition",
+               "date" : "August 10, 2021",
+               "time" : "1PM - 4PM",
+               "link" : "https://us02web.zoom.us/webinar/register/WN_KvBNGA_GT3q9TGLaxFEjIg",
+               "option" : "",
+               "color" : "warning"
+           },
+           {
+               "title" : "Visual Abstract Poster Competition (Student and Professional)",
+               "date" : "August 10, 2021",
+               "time" : "8AM - 12NN",
+               "link" : "",
+               "option" : "By Invitation Only",
+               "color" : "success"
+           },
+           {
+               "title" : "Practical Training for REC Members and Staff",
+               "date" : "August 10, 2021",
+               "time" : "8AM - 4PM",
+               "link" : "",
+               "option" : "By Invitation Only",
+               "color" : "success"
+           }
+       ],
+
+       "fifth" : [
+            {
+                "title" : "14th PNHRS Week Celebration Opening Ceremonies and Plenary 1: Changing Landscape of Universal Health Care: Paradigm Shifts in Health R&D",
+                "option" : "",
+                "color" : "warning",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_5aRz2YXGQBa_bxW6RRTdJg"
+            },
+            {
+                "title" : "Parallel Session 1: Implications of the New Normal on Health Technology Assessment",
+                "option" : "",
+                "color" : "warning",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_-1fQ80W0RkiHE00v35EuEg"
+            },
+            {
+                "title" : "Parallel Session 2: Enhancing the Country’s Bio-Preparedness for COVID-19 and other Emerging Infectious Diseases",
+                "option" : "",
+                "color" : "warning",
+                "link" : "https://us02web.zoom.us/meeting/register/tZwtce6tqjMvHtdrE5V-Lp8zxdK007HBwqXn"
+            },
+            {
+                "title" : "Parallel Session 3: Harnessing International Collaborations and Engagement of Stakeholders to Maximize Health Research Impact",
+                "option" : "",
+                "color" : "warning",
+                "link" : "https://us02web.zoom.us/meeting/register/tZMpdOqupz0sE93vzwng7HAXBcziWyH68Fhb"
+            },
+            {
+                "title" : "Plenary 2: LGU COVID-19 Response: Sharing of Collaborative Practices in Disease Prevention and Control, and Closing and Awarding Ceremonies",
+                "option" : "",
+                "color" : "danger",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_s8n4xox2Sq25zNmwON-uTw"
+            }
+        
+        ],
+
+        "sixth" : [
+            {
+                "main" : "Oral Research Presentation",
+                "title" : "Oral Research Presentation - Student Category",
+                "date" : "August 09, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_HSzgJC2YSMKtazgiE_MFiA",
+                "option" : "",
+                "color" : "danger",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/oral/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/oral/2.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/oral/3.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/oral/4.jpg"
+                    }
+                ]
+            },
+            {
+                "main" : "Research in Global Health Emergencies",
+                "title" : "Research in Global Health Emergencies: The Nuffield Council Moral Compass and Good Participatory Practice",
+                "date" : "August 10, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_s-isBFZESkinjrB_YXkQ8g",
+                "option" : "",
+                "color" : "warning",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/research/1.jpg"
+                    }
+                ]
+            },
+
+            {
+                "main" : "Practical Training for REC Members and Staff",
+                "title" : "Practical Training for REC Members and Staff",
+                "date" : "August 10, 2021",
+                "time" : "8AM - 4PM",
+                "link" : "",
+                "option" : "By Invitation Only",
+                "color" : "success",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/practical/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/practical/2.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/practical/3.jpg"
+                    }
+                ]
+            },
+            {
+                "main" : "Session on Social Innovation in Health Research",
+                "title" : "Session on Social Innovation in Health Research",
+                "date" : "August 09, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_4V-Qlp41TyCDokWC1bot3A",
+                "option" : "",
+                "color" : "danger",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/innovation/1.jpg"
+                    }
+                ]
+            }, 
+
+            {
+                "main" : "3-Minute Pitch to Policymakers",
+                "title" : "3-Minute Pitch to Policymakers Competition",
+                "date" : "August 10, 2021",
+                "time" : "1PM - 4PM",
+                "link" : "https://us02web.zoom.us/webinar/register/WN_KvBNGA_GT3q9TGLaxFEjIg",
+                "option" : "",
+                "color" : "warning",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/3/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/3/2.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/3/3.jpg"
+                    }
+                ]
+            },
+          
+            {
+                "main" : "Visual Abstract Poster Competition ",
+                "title" : "Visual Abstract Poster Competition (Student and Professional)",
+                "date" : "August 11, 2021",
+                "time" : "8AM - 12NN",
+                "link" : "",
+                "option" : "By Invitation Only",
+                "color" : "success",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/abstract/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/abstract/2.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/abstract/3.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/abstract/4.jpg"
+                    }
+                ]
+            }
+           
+        ],
+        "seventh" : [
+            {
+                "main" : "Day 1",
+                "title" : "Day 1",
+                "date" : "August 12, 2021",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/plen1/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/plen1/2.jpg"
+                    }
+                ]
+            },
+            {
+                "main" : "Day 2",
+                "title" : "Day 2",
+                "date" : "August 13, 2021",
+                "images" : [
+                    {
+                        "name" : "assets/images/landing/sessions/plen2/1.jpg"
+                    },
+                    {
+                        "name" : "assets/images/landing/sessions/plen2/2.jpg"
+                    }
+                ]
+            }
+        ]
+}

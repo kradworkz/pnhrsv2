@@ -1,0 +1,390 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sta. Cruz Island",
+        "type" : "Seascapes",
+        "description" : "Great Santa Cruz Island is a small inhabited island in Zamboanga City in the southern region of the Philippines that is famous for its pink coralline sand. The island, located 4 kilometers south of downtown at the Santa Cruz Bank in the Basilan Strait, boasts the only pink sand beach in the Philippines. The color of the sand comes from the pulverized red organ pipe coral from eons of surf erosion mixed with the white sand.",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/stacruz/1.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/stacruz/2.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/stacruz/3.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "Once Islas",
+        "type" : "Seascapes",
+        "description" : "The tropical haven is an eco-cultural tourism destination rich with majestic rock formations, fine white sand, and pristine blue waters. It is composed of 11 islands along the Moro Gulf supervised and protected by the Zamboanga Tourism Office and taken under the care of the local community. Once Islas, which got its name from the combination of the Spanish words “once (eleven),” and “islas (islands),” opened to the public in July last year, and it has since been frequented by foreign tourists and local backpackers for its natural infinity pool and beautiful spots scattered around its adjoining islets."
+    },
+    {
+        "id" : 3,
+        "name" : "Merloquet Falls",
+        "type" : "Seascapes",
+        "description" : "Merloquet Falls may fall short on grandeur compared with other waterfalls in Mindanao but its uniqueness is a charmer. Despite its exposure in the past years, this spot is still in its raw state, and less crowded and busy compared with other known waterfalls in the country. Sit on its natural steps and enjoy the natural back massage of its gushing cold waters or avail of the rapelling experience offered by Zamboanga based adventure companies to best enjoy Merloquet Falls."
+    },
+    {
+        "id" : 4,
+        "name" : "Buluan Islan",
+        "type" : "Seascapes",
+        "description" : "Buluan Island is one of the protected tourist spots in Ipil, Zamboanga. The local authorities declared the surrounding water bodies as a Marine Protected Sanctuary. A wide array of marine species can be found, making the site an ideal destination for snorkeling and diving. Surely, you can’t help but be amazed by the surrounding crystal-clear waters."
+    },
+    {
+        "id" : 5,
+        "name" : "Malamawi  ",
+        "type" : "Seascapes",
+        "description" : "Approximately one kilometer away from Basilan capital city of Isabela, Malamawi is a small inhabited island made famous by the long stretch of white sandy beach on its northern coast. With its exotic appeal, idyllic natural beauty and serenity, the place has become a go-to place of locals specially of those from Isabela City and suburbs who wish to escape for sea, sun and sand experience. With its increasing popularity even to outsiders, the local government has secured, developed and transformed a part of the beach into a resort with facilities and activities for tourists."
+    },
+    {
+        "id" : 6,
+        "name" : "Bayangan Island, Labason",
+        "type" : "Landscapes",
+        "description" : "The island is rimmed with white sand beach of varying fineness. There is an existing community on the island. There are actually a handful of stores where you can buy food, beverages, and even booze. You can also purchase seafood from their catch at an amazing deal. Water is an expensive commodity since the supply of fresh water limited and coming from mainland Zamboanga Peninsula. Bring enough drinking water supply during your stay. On low tide, you can walk next to the neighboring island, however, be careful as poisonous sea snakes which they call “walo walo” are present in the nearby island."
+    },
+    {
+        "id" : 7,
+        "name" : "Punta Beach, Liloy",
+        "type" : "Landscapes",
+        "description" : ""
+    },
+    {
+        "id" : 8,
+        "name" : "Zamboanga Cityhall",
+        "type" : "Infrastructure",
+        "description" : "Zamboanga City Hall or the \"CITY HALL\" it exhibits its old world charm and it is a significant landmark in the history of Zamboanga and in the entire Mindanao. Most people say that it was build during \"SPANISH-COLONIAL ERA\" but they were mistaken about it. It was build in 1905, when the United States colonized the Philippine islands. The City Hall was located at the main town or \"EL PUEBLO\" in chavacano. In the year 1914, it became the seat power of the department of Zamboanga and Sulu. By the time of President Manuel L. Quezon. Today, City Hall still stands proud as the reminder of the Zamboangeño heritage. This structure is unique among the neoclassical contemporaries. The tower now is where the siren is blared at certain time of the day. Every December the city government start to decorate the tower and it turns into a showcase of lights, many families and friends come and spend a cool Christmas night in the plaza complex of the City Hall.",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/cityhall/1.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/cityhall/2.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/cityhall/3.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/cityhall/4.jpg"
+            }, 
+            {
+                "name" : "assets/images/landing/images/cityhall/5.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/cityhall/6.jpg"
+            }
+        ]
+    },  
+    {
+        "id" : 9,
+        "name" : "Fort Pilar",
+        "type" : "Infrastructure",
+        "description" : "One of the major historical landmarks here in Zamboanga is the royal fort of our Virgin Lady of the Pillar. Fort Pillar Shrine used to be around 17 centuries old. It was a military defense fortress constructed by the Spanish colonial government in Zamboanga. History says that Fr. Melchor de Vera a Jesuit priest-engineer built the fort in 1635 to protect the city from invaders that include the moros, the dutch and the British. Devotees gather around to attend and hear masses and also light candles. The fortress is considered by far the most splendid in the entire country.",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/fortpilar/1.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/fortpilar/2.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/fortpilar/3.jpg"
+            }, {
+                "name" : "assets/images/landing/images/fortpilar/4.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "name" : "National Museum",
+        "type" : "Infrastructure",
+        "description" : " The Fort Pilar Museum in Zamboanga City was initiated and established through the concerted efforts of the Department of Tourism, the Department of Public Highways, the City Government of Zamboanga and the National Museum. This museum is situated within the historic bastions of Fort Pilar and is named after the patron saint of the city, the Nuestra Senora La Virgen del Pilar. It showcases the indigenous marine life of Zamboanga and the nearby islands and the underwater archaeological finds from the \"Grifim\" which sank during the l8th century in the water northwest of Basilan Province. On October 27, 1993, two major exhibitions were formally inaugurated featuring the Peoples of Southwestern Philippines, the Sama Dilaut, the Subanon, and the Yakan. The establishment of a museum branch in Zamboanga City was made possible by Presidential Decree 260 declaring Fort Pilar as a National Cultural Treasure on August 1, 1973. Situated within the historic Fort Pilar, the museum is named in honor of Nuestra Señora del Pilar, patroness of Zamboanga. Zamboanga City is the most important city of Zamboanga del Sur, one of the three provinces in Western Mindanao. Fr. Melchor de Vera, a Jesuit missionary engineer who accompanied Captain Juan de Chaves on April 6, 1635 with 1,000 Visayans and 300 Spaniards as they landed in Zamboanga, started the construction of Fort Pilar on June 23, 1635. Fort Pilar, Father De Vera’s masterpiece, was abandoned in 1663, rebuilt in 1718, and was for centuries a defense against Muslim, Dutch, Portuguese and British attacks. It was in disrepair after World War II until it was restored by the National Museum. The restoration and reconstruction of the three structures inside the fort started in the early part of 1980. After six years of rehabilitation work, the museum branch opened its door to the public with a special exhibit on Philippine Contemporary Art. In October 1987, the permanent exhibit on the Marine Life of Zamboanga, Basilan and Sulu was opened at the second floor of Structure II showing 400 species of marine life specimens in giant dioramas. Simultaneously opened was a special exhibit on the 18th Century Relics from the Griffin Shipwreck at the ground floor, which coincided with the formal inauguration of the structure. Then former congresswoman and Zamboanga City Mayor Maria Clara Lobregat, one of the staunch supporters of Fort Pilar Museum, and the civic-minded residents of the city greatly contributed to the realization of development projects in the museum. The Canelar Barter Trade Center, is a marketplace filled with a chockfull of stalls selling local handicrafts and souvenir items. It is also a haven for low priced items from nearby Malaysia and Indonesia, such as imported textiles with batik prints, malongs, shawls, scarves, dresses, and even imported instant noodles from Malaysia not usually sold in local groceries. Another unique souvenir items found here are uniquely shaped door knockers and doorbells that look like head of animals like lions, deer, or oxen. Haggling is widely practiced and encouraged here, so this is the spot to put your bargaining skills to the test."
+    },
+    {
+        "id" : 11,
+        "name" : "Canelar Barter Trade Center",
+        "type" : "Infrastructure",
+        "description" : "The Canelar Barter Trade Center, is a marketplace filled with a chockfull of stalls selling local handicrafts and souvenir items. It is also a haven for low priced items from nearby Malaysia and Indonesia, such as imported textiles with batik prints, malongs, shawls, scarves, dresses, and even imported instant noodles from Malaysia not usually sold in local groceries. Another unique souvenir items found here are uniquely shaped door knockers and doorbells that look like head of animals like lions, deer, or oxen. Haggling is widely practiced and encouraged here, so this is the spot to put your bargaining skills to the test."
+    },
+    {
+        "id" : 12,
+        "name" : "Yakan Village",
+        "type" : "Infrastructure",
+        "description" : "The Yakan are an indigenous tribe from Basilan, an island located about 40 km from Zamboanga City, with a body of water in between separating the two municipalities. The Yakan people were forced to leave Basilan back in 1974 for a more peaceful existence in the city, and they settled about 7 km from the city center. This is where the Yakan Weaving Village was established and where their beautiful weaving patterns became famous. At the village, kaleidoscopes of colorful textiles are on display, with the cloth used on locally handcrafted items. From household materials like placemats, table runners, to clothes and accessories like purses, parkas, and bags, you’re bound to find something to bring home to friends and family. "
+    },
+     {
+        "id" : 13,
+        "name" : "SM City Mindpro",
+        "type" : "Infrastructure",
+        "description" : "SM City Mindpro is a four-level shopping mall located on a 13,078 squared meter site along La Purisima and Campaner Sts. in the city's downtown area, with a total floor area of 59,383 square meters. It features a more than 546-slot six-level parking area with 481 car slots, 53 motorcycle slots and 12 PWD slots, as well as a transport terminal",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/SM/1.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/SM/2.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 14,
+        "name" : "KCC Mall de Zamboanga",
+        "type" : "Infrastructure",
+        "description" : "KCC Mall de Zamboanga is a shopping mall in Zamboanga City with the main mall GFA of 120,000 m2 (1,300,000 sq ft) and is the first full-scale shopping mall in the city. It anchors KCC Supermarket with 83 check-out counters and Mindanao's largest so far, the KCC Department Store, KCC Cinema with 6 digital cinemas (including a newly-renovated Cinema 6 with recliner seats), and of around 200+ tenants.",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/kcc/1.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/kcc/2.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 15,
+        "name" : "Pasonanca Tree House",
+        "type" : "Infrastructure",
+        "description" : ""
+    },
+    {
+        "id" : 16,
+        "name" : "Plaza Pershing",
+        "type" : "Infrastructure",
+        "description" : "A ground for special events, this was originally called the Plaza de Don Juan Salcedo, Spain’s great conquistador. It was renamed Plaza Pershing in honor of Gen. John J. “Blackjack” Pershing who was loved and respected by the Zamboangueños for his achievements."
+    },
+    {
+        "id" : 17,
+        "name" : "Rizal Shrine",
+        "type" : "Infrastructure",
+        "description" : "The José Rizal Memorial Protected Landscape, popularly known as Rizal Shrine is 2 kilometers away from Dapitan City Plaza and is visited by a large number of tourists visiting Zamboanga del Norte. The place consists of 16 hectare land in Barangay Talisay which the national hero purchased on July 17, 1892, during the exile period is now converted into a national park."
+    },
+    {
+        "id" : 18,
+        "name" : "Integrated Bus Terminal",
+        "type" : "Transportation",
+        "description" : ""
+    },
+    {
+        "id" : 19,
+        "name" : "Zamboanga International Airport",
+        "type" : "Transportation",
+        "description" : "Zamboanga International Airport is the main airport serving in Zamboanga City. Zamboanga International Airport has one 2,610-meter primary runway. The dimensions of the runway are 2,610 meters in length by 45 meters in width The airport, like all other international airports in the Philippines, has runway lights, which make it possible to support night landings. This makes 24-hour airport operations possible.",
+        "images" : [
+            {
+                "name" : "assets/images/landing/images/airport/2.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/airport/3.jpg"
+            },
+            {
+                "name" : "assets/images/landing/images/airport/1.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 20,
+        "name" : "Zamboanga Port",
+        "type" : "Transportation",
+        "description" : "The Port of Zamboanga is a seaport located in Zamboanga City. The port has 19 docks, 12 of which are privately owned. The largest dock has capacity for up to 20 vessels, and is operated directly by the Philippine Ports Authority. Passenger transport is also a major port industry, with an annual passenger throughput exceeding 5.5 million"
+    },
+    {
+        "id" : 21,
+        "name" : "Dakak",
+        "type" : "Resort",
+        "description" : "The famous Dakak Beach is most known for its strikingly shaped bay and powdery white sand, and as a diving Mecca in Mindanao. Perfect blue waters, tremendous dive sites with great quantity of coral reefs, and a wonderful sunset scope characterize this tropical Eden.Dakak Park and Beach Resort boasts 15 hectares of wooded land, a natural reservoir for native plants and animals, and a 750-meter private white-sand beach. Nestled on the tip of Northern Zamboanga, Dakak faces the Sulu Sea in the west and is surrounded by mountains on its east side. Conveniently encircled by large island, Dakak tactfully avoids the typhoon belt, making it the ideal all-season destination."
+    },
+    {
+        "id" : 22,
+        "name" : "La Vista del Mar",
+        "type" : "Resort",
+        "description" : ""
+    },
+    {
+        "id" : 23,
+        "name" : "Andres Bonifacio College",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 24,
+        "name" : "Ateneo de Zamboanga University",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 25,
+        "name" : "Brent Hospital and Colleges, Inc.",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 26,
+        "name" : "Dipolog Medical Center Foundation",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 27,
+        "name" : "Jose Rizal Memorial State University",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 28,
+        "name" : "Mindanao State University - Buug",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 29,
+        "name" : "University de Zamboanga",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 30,
+        "name" : "Western Mindanao State University",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 31,
+        "name" : "Zamboanga State College of Marine Science and Technology",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 32,
+        "name" : "St. Columban Colleges",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 33,
+        "name" : "Pilar College of Zamboanga, Inc.",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 34,
+        "name" : "Basilan State College",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 35,
+        "name" : "JH Cerilles State College",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 36,
+        "name" : "Zamboanga Peninsula Polytechnic State University",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 37,
+        "name" : "Commision on Higher Education IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 38,
+        "name" : "Department of Health IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 39,
+        "name" : "Department of Science & Technology IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 40,
+        "name" : "Department of Social Welfare and Development IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 41,
+        "name" : "National Commission on Indigenous Peoples",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 42,
+        "name" : "National Economic and Development Authority IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 43,
+        "name" : "Natural Nutrition Council IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 44,
+        "name" : "Office of the Civil Defense IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 45,
+        "name" : "Philippine Information Agency IX",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 46,
+        "name" : "Philippine Statistics Authority IX",
+        "type" : "Member Institutions"
+    },
+    {
+        "id" : 47,
+        "name" : "Zamboanga City Medical Center",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 48,
+        "name" : "Zamboanga City Health Office",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 49,
+        "name" : "Municipality of Dumingag",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 50,
+        "name" : "Katilingban para sa Kalambuan Org., Inc.",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 51,
+        "name" : "Mother and Child Nurses Association of the Philippines, Inc.",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 52,
+        "name" : "Ciudad Medical Zamboanga – IM Department ",
+        "type" : "Member Institutions",
+        "description" : ""
+    },
+    {
+        "id" : 53,
+        "name" : "Zamboanga – Basilan Integrated Development Alliance",
+        "type" : "Member Institutions",
+        "description" : ""
+    }
+]

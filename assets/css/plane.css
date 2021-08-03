@@ -1,0 +1,201 @@
+
+
+  .logo {
+    width:600px;
+    height: auto;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+  }
+
+  
+  .menu {
+    width:240px;
+    height: auto;
+    top: 230px;
+    left: 0px;
+    position: absolute;
+  }
+
+  .about {
+    width:162px;
+    height: auto;
+    top: 292px;
+    left: 23px;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .about:hover {
+    transform: scale(1.1);
+  }
+
+  .events {
+    width:91px;
+    height: auto;
+    top: 342px;
+    left:7px;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .events:hover {
+    transform: scale(1.1);
+  }
+
+  .exhibit {
+    width:91px;
+    height: auto;
+    top: 342px;
+    left: 104px;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .exhibit:hover {
+    transform: scale(1.1);
+  }
+
+   .registerw {
+    width:103px;
+    height: auto;
+    top: 383px;
+    left: 48px;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .registerw:hover {
+    transform: scale(1.1);
+  }
+
+
+  .faq {
+    width:103px;
+    height: auto;
+    top: 433px;
+    left: 5px;
+    position: absolute;
+  }
+
+  .faq:hover {
+    transform: scale(1.1);
+  }
+
+  .resources {
+    width:79px;
+    height: auto;
+    top: 433px;
+    left: 112px;
+    position: absolute;
+  }
+
+  .resources:hover {
+    transform: scale(1.1);
+  }
+
+
+
+  .plane {
+    top: 150px;
+    width: 25%;
+    height:auto;
+    position: absolute;
+    animation: slide 12s 1 linear forwards;
+  }
+
+  @keyframes slide {
+    100% {
+     left: 0%;
+    opacity: 0;
+    }
+    90% {
+      opacity: 1;
+    }
+    50% {
+      left: 50%;
+      opacity: 1;
+    }
+    0% {
+      left: 100%;
+      opacity: 1;
+      display: none;
+    }
+  }
+
+
+  .logos {
+    width:300px;
+    height: auto;
+    top: 5px;
+    right: 5px;
+    position: absolute;
+  }
+
+  .l-1 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 260px;
+    position: absolute;
+  }
+  .l-2 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 210px;
+    position: absolute;
+  }
+  .l-3 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 160px;
+    position: absolute;
+  }
+  .l-4 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 110px;
+    position: absolute;
+  }
+  .l-5 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 60px;
+    position: absolute;
+  }
+  .l-6 {
+    width:60px;
+    height: auto;
+    top: 5px;
+    right: 10px;
+    position: absolute;
+  }
+/*   
+  .vinta2 {
+    left: 850px;
+    top: 540px;
+    width: 4%;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+    animation: nudge 40s linear infinite alternate;
+  }
+
+  .vinta3 {
+    top: 543px;
+    left: 450px;
+    width: 2%;
+    height:auto;
+    position: absolute;
+    transition: transform .5s;  
+    animation: nudge2 20s linear infinite alternate;
+    transform: scaleX(-1);
+  } */
+
+
+  
+

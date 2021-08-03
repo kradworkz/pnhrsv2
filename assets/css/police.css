@@ -1,0 +1,71 @@
+.police1{
+    left: calc(883px + var(--left));
+    top: 207px;
+    width: 7px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .police2{
+    left: calc(936px + var(--left));
+    top: 311px;
+    width: 7px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+  
+  .police3{
+    left: calc(642px + var(--left));
+    top: 336px;
+    width: 7px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .police4{
+    left: calc(553px + var(--left));
+    top: 209px;
+    width: 7px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .police5{
+    left: calc(526px + var(--left));
+    top: 411px;
+    width: 7px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .policeshield1{
+    left: calc(407px + var(--left));
+    top: 241px;
+    width: 9px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+  
+  .policeshield2{
+    left: calc(698px + var(--left));
+    top: 215px;
+    width: 9px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
+
+  .policeshield3{
+    left: calc(303px + var(--left));
+    top: 282px;
+    width: 9px;
+    height:auto;
+    position: absolute;
+    transition: transform .5s; 
+  }
