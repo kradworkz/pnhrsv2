@@ -8,13 +8,13 @@
             "option" : "",
             "images" : [
                 {
-                    "name" : "assets/images/landing/sessions/southluzon/1.jpg"
+                    "name" : "assets/images/landing/sessions/southluzon/1.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/southluzon/2.jpg"
+                    "name" : "assets/images/landing/sessions/southluzon/2.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/southluzon/3.jpg"
+                    "name" : "assets/images/landing/sessions/southluzon/3.JPG"
                 }
             ]
         },
@@ -26,13 +26,13 @@
             "option" : "",
             "images" : [
                 {
-                    "name" : "assets/images/landing/sessions/northluzon/1.jpg"
+                    "name" : "assets/images/landing/sessions/northluzon/1.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/northluzon/2.jpg"
+                    "name" : "assets/images/landing/sessions/northluzon/2.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/northluzon/3.jpg"
+                    "name" : "assets/images/landing/sessions/northluzon/3.JPG"
                 }
             ]
         },
@@ -44,10 +44,10 @@
             "option" : "",
             "images" : [
                 {
-                    "name" : "assets/images/landing/sessions/visayas/1.jpg"
+                    "name" : "assets/images/landing/sessions/visayas/1.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/visayas/2.jpg"
+                    "name" : "assets/images/landing/sessions/visayas/2.JPG"
                 }
             ]
         },
@@ -59,13 +59,13 @@
             "option" : "",
             "images" : [
                 {
-                    "name" : "assets/images/landing/sessions/mindanao/1.jpg"
+                    "name" : "assets/images/landing/sessions/mindanao/1.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/mindanao/2.jpg"
+                    "name" : "assets/images/landing/sessions/mindanao/2.JPG"
                 },
                 {
-                    "name" : "assets/images/landing/sessions/mindanao/3.jpg"
+                    "name" : "assets/images/landing/sessions/mindanao/3.JPG"
                 }
             ]
         }
@@ -279,16 +279,16 @@
                 "color" : "danger",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/oral/1.jpg"
+                        "name" : "assets/images/landing/sessions/oral/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/oral/2.jpg"
+                        "name" : "assets/images/landing/sessions/oral/2.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/oral/3.jpg"
+                        "name" : "assets/images/landing/sessions/oral/3.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/oral/4.jpg"
+                        "name" : "assets/images/landing/sessions/oral/4.JPG"
                     }
                 ]
             },
@@ -302,7 +302,7 @@
                 "color" : "warning",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/research/1.jpg"
+                        "name" : "assets/images/landing/sessions/research/1.JPG"
                     }
                 ]
             },
@@ -317,13 +317,13 @@
                 "color" : "success",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/practical/1.jpg"
+                        "name" : "assets/images/landing/sessions/practical/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/practical/2.jpg"
+                        "name" : "assets/images/landing/sessions/practical/2.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/practical/3.jpg"
+                        "name" : "assets/images/landing/sessions/practical/3.JPG"
                     }
                 ]
             },
@@ -337,7 +337,7 @@
                 "color" : "danger",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/innovation/1.jpg"
+                        "name" : "assets/images/landing/sessions/innovation/1.JPG"
                     }
                 ]
             }, 
@@ -352,13 +352,13 @@
                 "color" : "warning",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/3/1.jpg"
+                        "name" : "assets/images/landing/sessions/3/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/3/2.jpg"
+                        "name" : "assets/images/landing/sessions/3/2.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/3/3.jpg"
+                        "name" : "assets/images/landing/sessions/3/3.JPG"
                     }
                 ]
             },
@@ -373,16 +373,16 @@
                 "color" : "success",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/abstract/1.jpg"
+                        "name" : "assets/images/landing/sessions/abstract/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/abstract/2.jpg"
+                        "name" : "assets/images/landing/sessions/abstract/2.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/abstract/3.jpg"
+                        "name" : "assets/images/landing/sessions/abstract/3.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/abstract/4.jpg"
+                        "name" : "assets/images/landing/sessions/abstract/4.JPG"
                     }
                 ]
             }
@@ -395,10 +395,10 @@
                 "date" : "August 12, 2021",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/plen1/1.jpg"
+                        "name" : "assets/images/landing/sessions/plen1/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/plen1/2.jpg"
+                        "name" : "assets/images/landing/sessions/plen1/2.JPG"
                     }
                 ]
             },
@@ -408,10 +408,10 @@
                 "date" : "August 13, 2021",
                 "images" : [
                     {
-                        "name" : "assets/images/landing/sessions/plen2/1.jpg"
+                        "name" : "assets/images/landing/sessions/plen2/1.JPG"
                     },
                     {
-                        "name" : "assets/images/landing/sessions/plen2/2.jpg"
+                        "name" : "assets/images/landing/sessions/plen2/2.JPG"
                     }
                 ]
             }
