@@ -1,4 +1,4 @@
-<div class="bg-overlay bg-primary"></div>
+<div v-if="!isMobile()"class="bg-overlay bg-primary"></div>
 <div v-if="isMobile()" style="margin-top: -40px;">
     <h6 class="text-white fw-semibold mb-2"><p style="font-size : 18px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 26px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
     <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-13 text-white" style="margin-right: 20px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
