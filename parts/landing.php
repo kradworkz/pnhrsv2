@@ -43,7 +43,7 @@
             </ul>
         </div>
     </div>
-    <div v-else style="scale: 0.4; margin-top: -180px; margin-left: -100px;">
+    <div v-else style="scale: 0.4; margin-top: -200px; margin-left: -150px;">
         <ul id="map">
             <li @click="openmodal(1)" class="stacruz zoom"></li>
             <li class="vinta3"></li>
@@ -91,14 +91,15 @@
         <div class="cloud x5"></div>
     </div> 
 
-    <img class="menu" src="assets/images/landing/new/designs/menu.png">
-    <a @click="view('about')"><img class="about" src="assets/images/landing/new/designs/about.png" onmouseover="this.src='assets/images/landing/new/designs/e-3.png'" onmouseout="this.src='assets/images/landing/new/designs/about.png'"></a>
-    <a @click="view('events')"><img class="events" src="assets/images/landing/new/designs/events.png" onmouseover="this.src='assets/images/landing/new/designs/e-2.png'" onmouseout="this.src='assets/images/landing/new/designs/events.png'"></a>
-    <a @click="view('exhibit')"><img class="exhibit" src="assets/images/landing/new/designs/exhibit.png"  onmouseover="this.src='assets/images/landing/new/designs/e-1.png'" onmouseout="this.src='assets/images/landing/new/designs/exhibit.png'"></a>
-    <a @click="view('register')"><img class="registerw" src="assets/images/landing/new/designs/register.png" onmouseover="this.src='assets/images/landing/new/designs/e-4.png'" onmouseout="this.src='assets/images/landing/new/designs/register.png'"></a>
-    <a @click="view('faqs')"><img class="faq" src="assets/images/landing/new/designs/faq.png" onmouseover="this.src='assets/images/landing/new/designs/e-5.png'" onmouseout="this.src='assets/images/landing/new/designs/faq.png'"></a> 
-    <a @click="view('resources')"><img class="resources" src="assets/images/landing/new/designs/resources.png" onmouseover="this.src='assets/images/landing/new/designs/e-6.png'" onmouseout="this.src='assets/images/landing/new/designs/resources.png'"></a> 
-    
+    <div v-if="!isMobile()">
+        <img class="menu" src="assets/images/landing/new/designs/menu.png">
+        <a @click="view('about')"><img class="about" src="assets/images/landing/new/designs/about.png" onmouseover="this.src='assets/images/landing/new/designs/e-3.png'" onmouseout="this.src='assets/images/landing/new/designs/about.png'"></a>
+        <a @click="view('events')"><img class="events" src="assets/images/landing/new/designs/events.png" onmouseover="this.src='assets/images/landing/new/designs/e-2.png'" onmouseout="this.src='assets/images/landing/new/designs/events.png'"></a>
+        <a @click="view('exhibit')"><img class="exhibit" src="assets/images/landing/new/designs/exhibit.png"  onmouseover="this.src='assets/images/landing/new/designs/e-1.png'" onmouseout="this.src='assets/images/landing/new/designs/exhibit.png'"></a>
+        <a @click="view('register')"><img class="registerw" src="assets/images/landing/new/designs/register.png" onmouseover="this.src='assets/images/landing/new/designs/e-4.png'" onmouseout="this.src='assets/images/landing/new/designs/register.png'"></a>
+        <a @click="view('faqs')"><img class="faq" src="assets/images/landing/new/designs/faq.png" onmouseover="this.src='assets/images/landing/new/designs/e-5.png'" onmouseout="this.src='assets/images/landing/new/designs/faq.png'"></a> 
+        <a @click="view('resources')"><img class="resources" src="assets/images/landing/new/designs/resources.png" onmouseover="this.src='assets/images/landing/new/designs/e-6.png'" onmouseout="this.src='assets/images/landing/new/designs/resources.png'"></a> 
+    </div>
     <div v-if="!isMobile()">
         <a href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
         <a href="https://region9.dost.gov.ph" target="_blank"><img class="l-1" src="assets/images/krad/dost.png"></a>
