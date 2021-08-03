@@ -1,8 +1,8 @@
 <div v-if="!isMobile()"class="bg-overlay bg-primary"></div>
-<div v-if="isMobile()">
-    <h6 class="text-white fw-semibold mb-2"><p style="font-size : 18px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 26px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
-    <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-13 text-white" style="margin-right: 20px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
-    <span class="font-size-13 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
+<div v-if="isMobile()" style="margin-top: -100px;">
+    <h6 class="text-white fw-semibold mb-2"><p style="font-size : 14px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 22px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
+    <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-10 text-white" style="margin-right: 16px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
+    <span class="font-size-10 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
 </div>
 <div class="">
     <div class="row align-items-center" style="margin-top: -100px; margin-left: 20px;">
