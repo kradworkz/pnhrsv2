@@ -1,4 +1,9 @@
 <div class="bg-overlay bg-primary"></div>
+<div v-if="isMobile()" style="margin-top: -40px;">
+    <h6 class="text-white fw-semibold mb-2"><p style="font-size : 18px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 26px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
+    <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-13 text-white" style="margin-right: 20px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
+    <span class="font-size-13 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
+</div>
 <div class="">
     <div class="row align-items-center" style="margin-top: -100px; margin-left: 20px;">
         <div class="col-lg-12">
@@ -69,36 +74,6 @@
         <a href="https://doh.gov.ph" target="_blank"><img class="l-5" src="assets/images/krad/doh.png"></a>
         <a href="https://ched.gov.ph" target="_blank"><img class="l-6" src="assets/images/krad/ched.png"></a>
     </div>
-    <div v-else style="margin-top: -40px;">
-        <ul class="list-inline user-chat-nav text-right">
-            <li class="list-inline-item" style="margin-bottom: 10px;">
-            <img src="assets/images/krad/pnhrs.jpg" alt="" class="rounded" style="width: 100%; height: auto;">
-            </li>
-            <br>
-            <li class="list-inline-item">
-            <img src="assets/images/krad/dost.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-            <li class="list-inline-item">
-                <img src="assets/images/krad/pchrd.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-            <li class="list-inline-item">
-                <img src="assets/images/krad/zchrd.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-            <li class="list-inline-item">
-                <img src="assets/images/krad/ched.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-            <li class="list-inline-item">
-                <img src="assets/images/krad/up.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-            <li class="list-inline-item">
-            <img src="assets/images/krad/doh.png" alt="" class="rounded avatar-sm" style="height: 2rem; width: 2rem;">
-            </li>
-        </ul>
-        <br>
-        <h6 class="text-white fw-semibold mb-2"><p style="font-size : 18px; color: #ffd311; text-shadow: 1px 1px 1px #404040;">Health R&D in the New Normal :</p><p style="font-size : 26px; color: #ff2960; text-shadow: 1px 1px 2px #000000; margin-top: -15px;"> Moving towards Universal Health Care</p></h6>
-        <p style="margin-top: -12px;  text-shadow: 1px 1px 1px #000000;"><span class="font-size-13 text-white" style="margin-right: 20px;"><i class='bx bx-calendar'></i> August 09-13, 2021 </span>
-        <span class="font-size-13 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
-    </div>
-    
+
     <img class="plane" src="assets/images/landing/new/designs/plane.png">
 </div>
