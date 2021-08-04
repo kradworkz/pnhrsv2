@@ -61,7 +61,7 @@
             <section v-if="content == 'events'" class="section " id="events" style="background-color:  #4ea8ff; height: 100vh;">
                 <?php require_once("parts/events.php"); ?>
             </section>
-            <section v-if="content == 'exhibit'" class="section" id="events" style=" height: 100vh;">
+            <section v-if="content == 'exhibit'" class=""  id="events" style=" background-color:  #d4e9ff; height: 100vh; overflow: hidden;">
                 <?php require_once("parts/exhibit.php"); ?>
             </section>
             <section v-if="content == 'resources'" class="section " id="events" style="background-color:  #4ea8ff; height: 100vh;">

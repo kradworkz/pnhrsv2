@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 
-@media screen and (min-width: 1900px){
+@media screen and (min-width: 1600px){
 	#map {
 		-moz-transform: scale(1.3);
 		margin-left: auto;
@@ -855,3 +855,5 @@ ul#map li.vinta3 {
 	  .slick-next:before {
 		color: #3756bf !important;
 	  }
+
+	  

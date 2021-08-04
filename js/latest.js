@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: '',
             time: '',
             landmark: [],
+            guide : false
         },
 
         created(){
