@@ -39,10 +39,9 @@
             <div class="modal-body" style="height: 70vh;">
                 <div class="card card-body text-center">
                     <div class="row justify-content-center">
-                        <div class="col-lg-5">
+                        <div class="col-lg-6">
                             <img :src="research.image" class="img-fluid" style="height: 55vh;" alt="..">
                         </div>
-                        <div class="col-lg-1"></div>
                         <div class="col-lg-6">
                             <h6 class="text-primary"><b>{{ research.title }}</b></h6>
                             <p class="font-size-11 text-muted"> {{ research.details }}</p>
