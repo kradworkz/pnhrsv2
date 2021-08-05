@@ -40,14 +40,14 @@
                 <div class="card card-body text-center">
                     <div class="row justify-content-center">
                         <div class="col-lg-5">
-                            <img :src="research.image" class="img-fluid" style="max-width: 100%;  height: auto;" alt="..">
+                            <img :src="research.image" class="img-fluid" style="height: 55vh;" alt="..">
                         </div>
                         <div class="col-lg-1"></div>
                         <div class="col-lg-6">
                             <h6 class="text-primary"><b>{{ research.title }}</b></h6>
                             <p class="font-size-11 text-muted"> {{ research.details }}</p>
                             <p class="font-size-11 text-muted" style="margin-top: -18px;"> {{ research.location }}</p>
-                            <div data-simplebar style="height: 50vh;">
+                            <div data-simplebar style="height: 45vh;">
                                 <div>
                                     <p class="font-size-12" style="text-align: justify;" v-for="(r,index) in research.content" v-bind:key="r.index">{{r.text}}</p>
                                 </div>
