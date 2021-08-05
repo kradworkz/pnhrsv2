@@ -14,6 +14,7 @@
         <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/lobby.css" id="app-style" rel="stylesheet" type="text/css" />
+        <link href="css/student.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/plane.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/animation.css" id="app-style" rel="stylesheet" type="text/css" />

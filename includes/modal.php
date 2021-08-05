@@ -27,6 +27,38 @@
         </div>
     </div>
 </div>
+
+<div class="modal fade" id="openabstract" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title mt-0" id="myExtraLargeModalLabel">View Abstract</h6>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body" style="height: 70vh;">
+                <div class="card card-body text-center">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-5">
+                            <img :src="research.image" class="img-fluid" style="max-width: 100%;  height: auto;" alt="..">
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-6">
+                            <h6 class="text-primary"><b>{{ research.title }}</b></h6>
+                            <p class="font-size-11 text-muted"> {{ research.details }}</p>
+                            <p class="font-size-11 text-muted" style="margin-top: -18px;"> {{ research.location }}</p>
+                            <div data-simplebar style="height: 50vh;">
+                                <div>
+                                    <p class="font-size-12" style="text-align: justify;" v-for="(r,index) in research.content" v-bind:key="r.index">{{r.text}}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- 
 <div class="modal fade" id="desc" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">

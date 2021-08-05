@@ -25,7 +25,9 @@ document.addEventListener('DOMContentLoaded', function () {
             title: '',
             time: '',
             landmark: [],
-            guide : false
+            guide : false,
+            ex: 'lobby',
+            research : []
         },
 
         created(){
@@ -105,6 +107,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 (l.option != '') ? '' : $("#open-registration").modal('show');
             },
+
+            viewabstract(id){
+                this.research = this.lists.find(list => list.id === id)
+                $("#openabstract").modal('show');
+            }
 
         }
     })

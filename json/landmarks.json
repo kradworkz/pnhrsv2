@@ -386,5 +386,283 @@
         "name" : "Zamboanga – Basilan Integrated Development Alliance",
         "type" : "Member Institutions",
         "description" : ""
+    },
+
+    {
+        "id" : 60,
+        "region" : 2,
+        "title" : "Wound Health Property of Kupang (Parkia timoriana (DC.) MERR) Fruit Extract in Sprague Dawley Rat",
+        "details" : "Lana, K.T., Palattao, M.B., Torres, B.T., and Batang-Tanguilan, M.",
+        "location" : "Cagayan State University - Carig Campus",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "This study was done to evaluate the wound healing property of the plant Kupang (Parkia timoriana) various extracts in Sprague Dawley rat. There were five treatments used in the study. The five treatments are labeled as follows: Treatment 1- negative control (wound only), Treatment 2- positive control treated with Mupirocin-Bactroban, Treatment 3- Kupang fruit aqueous extract, Treatment 4- Kupang fruit crude extract and Treatment 5- Kupang fruit ethanolic extract of the plant. For every treatment there were three replicates. On the dorsal part of the rat an excision of wound was made in a circular manner with an area of 15-20 mm and was measured by acetate tracing, and contact planimetry. "
+            },
+            {
+                "text" : "After 14 days of observation, results showed that the highest percentage of wound contraction was the Treatment 3 (Kupang aqueous Extract) with a mean of 93.33%, followed by Treatment 4(Kupang fruit crude extract) with 77.23%, then Treatment 5 (Kupang fruit ethanolic extract) with 75.10% and Treatment 2 (positive control) with 65.74% and lastly the Treatment 1 (untreated) which showed the slowest contraction of wound with 48.4% mean of wound contraction. The study undertaken could be a precursor for the development of wound healing activity of the plant."
+            },
+            {
+                "text" : "The result of the study revealed the aqueous, crude and ethanolic fruit extracts of Kupang has wound healing property. The various extracts also have faster rate of contraction on wounds than that of the positive control."
+            }
+        ]
+    },
+    {
+        "id" : 61,
+        "region" : 3,
+        "title" : "In-silico analysis of Pukingan (Clitoria ternatea) against Human Immunodeficiency Virus (HIV-1)",
+        "details" : "Pajimna, M.F., Abesamis, M.M., and Buan, I.A.",
+        "location" : "Nueva Ecija University of Science and Technology",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "One of the leading infectious diseases causing millions of sufferings and death in the world is the Human Immunodeficiency Virus (HIV). HIV targets the immune system, which usually fights against germs, infections, bacteria, and viruses. However, expensive drugs that are sometimes not accessible and, in most cases, associated with an adverse drug reaction. People turn to use alternative herbal medicine to treat or manage diseases such as Pukingan (Clitoria ternatea). In silico approach is used in the study to reduce the cost and longtime process in discovering a new drug. The study focused on determining the ability of the Pukingan (Clitoria ternatea) plant as an inhibitor against the glycoprotein; gp120 and gp41 of HIV-1, which responsible for the attachment of the virus to the host cell. "
+            },
+            {
+                "text" : "The scoring functions from the docking calculations of Arguslab and Pyrx software were utilized to determine the potential of the bioactive components of Pukingan (Clitoria ternatea) as inhibitors of HIV-1. The crystal structure of HIV-1 gp120 and gp41 were obtained in Protein Data Bank with pdb file: 4DVR and 1AIK. The active site gp120 and gp41 were identified according to the study of Kwon et al. (2011) and Chan et al. (1997). The molecular structure of bioactive components found on the leaves and flowers Pukingan (Clitoria ternatea) is the result of the study conducted by Thakur et al. (2018) and Nedaet et al. (2012) respectively. The geometry of the molecular structures of ligand and the active site of the glycoproteins were optimized, and the docking calculations of the ligand determined using Arguslab software and Pyrx. A total of three trials were conducted. Results were gathered and analyzed using the T-test."
+            },
+            {
+                "text" : "The best ligand was determined and compared with Truvada (Emtricitabine), a commercially available drug, in terms of the binding affinity, energy fitness, and bounded amino acid residues. The best ligands that inhibit gp120 are Cyclotetradecane, Bicyclo[4.1.0]hetp-3-ene,3,7,7- trimethyl, Phthalic acid,4-Cyanophenyl Nony Ester, Isopropylbenzene, and Bis(trimethylsiloxy)- trimethylsilyl ester. While Cyclotetradecane, Benzoic acid,2,4-Bis(trimethylsiloxy)-trimethylsilys ester, Diisononylphthalate, Bicyclo [4.1.0.]hept-3-ene,3,7,7-trimethyl-4-(1-methylethenyl), Dioctyl ester and Benzoic acid, 2,4-Bis(trimethylsiloxy)-trimethylsilyl ester are responsible for the inhibition of gp41. There is no significant difference between the binding affinity and energy fitness of the best ligands and Truvada against gp120 and gp41. Therefore, the binding affinity and energy fitness of the bioactive components of Pukingan (Clitoria ternatea) is comparable with the commercially available anti-HIV drug."
+            }
+        ]
+    },
+    {
+        "id" : 62,
+        "region" : 6,
+        "title" : "Antibiotic Susceptibility Profile of Aeromonas hydrophila Isolates from Tilapia (Oreochromis niloticus) Cultured in Brackishwater Earthen Ponds to Commonly Used Antibiotics in Aquaculture: Implications in Zoonosis",
+        "details" : "Pakingking, F.G., Alvarado, D.R., Flores, P.H., Padernal, T.G., Pendon, J.G., and Plomantes, E.A.",
+        "location" : "Colegio San Agustin - Bacolod",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "Antibiotics are widely used to treat bacterial infections of fish. However, the indiscriminate use of antibiotics in aquaculture may induce toxicity to the host and consequential development of multiple-resistant strains of bacteria thereby posing some public health hazards. Aeromonas species including A. hydrophila are common aquatic pathogens responsible for the unwarranted disease outbreaks in tilapia culture. The current study was conducted to assess the in vitro efficacy of antibiotics commonly used in aquaculture against A. hydrophila isolates recovered from tilapia and their culture environment. All isolates were confirmed to be A. hydrophila."
+            },
+            {
+                "text" : "All 10 isolates were tested for antibiotic susceptibility profile using disk diffusion method, and Multiple Antibiotic Resistance [MAR] indexes. The procedures for all culture media and other materials used in this study were conducted following the manual on the Preparation of Media for Bacterial Enumeration, Identification, and Antibiotic Sensitivity Test provided by the Fish Health Section of SEAFDEC/AQD and as per manufacturer’s instructions. The A. hydrophila isolates examined significantly differed in the level of resistance to 10 antibiotics commonly used not only in aquaculture but as well as in human and veterinary medicine. All A. hydrophila isolates tested were highly resistant to ampicillin (100%), amoxicillin (80%), and erythromycin (80%). Few of the A. hydrophila isolates tested were resistant to trimethoprim-sulfamethoxazole (10%), norfloxacin (20%), oxytetracycline (30%), and neomycin (30%)."
+            },
+            {
+                "text" : "Notably, all the isolates tested were susceptible to enrofloxacin, doxycycline, and chloramphenicol. Majority of the A. hydrophila isolates were resistant to 3 to 7 antibiotics out of the 10 antibiotics tested with multiple antibiotic resistance [MAR] indexes ranging from 0.3 to 0.7, clearly indicating that these A. hydrophila isolates ubiquitously inhabiting in tilapia and their rearing environment where they were isolated, originate from high-risk sources of contamination where antibiotics have been often used. Further studies are therefore needed to generate pertinent information on antibiotic resistance of Aeromonas species in fish aquaculture, particularly in areas where uncontrolled and extensive use of antibiotics may cause the frequent occurrence of multiple antibiotic resistance."
+            }
+        ]
+    },
+    {
+        "id" : 63,
+        "region" : 8,
+        "title" : "Perceived Risk and Knowledge on Dengue Vaccination Among Parents with Children 16 Year Old and Below",
+        "details" : "Bayudan, G.O., Burale, E.C., Caldosa, C.F., Ferolino, K.M., Mendoza, M.D., Montalban, M.M., Pallar, M.C., Tabon, M.B., Ultra, J.A., and Falguera, C.",
+        "location" : "University of the Philippines Manila - School of Health Sciences",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "With the spike of dengue cases in the Philippines, the government announced to reconsider Dengvaxia and will possibly reimplement the dengue vaccination program. The researchers intended to conduct the study in light to re-assess willingness of parents with children aging 16 years old and below which are the possible recipients of this vaccine and infer their knowledge and perceived risk about dengue vaccination. "
+            },
+            {
+                "text" : "This descriptive – correlational study involved 250 parents with children aging 16 years old and below from municipalities of Northern Leyte which were among the top 5 with highest dengue cases in the province, namely Palo, Sta. Fe, Alangalang and Jaro. The researchers utilized a semi-structured survey questionnaire, composed of four parts: demographic characteristics checklist, perceived risk which utilized the Likert Scale, knowledge which used a true or false questionnaire and a single closed-ended question which assesses the intention of the participants to put their children for dengue vaccination. Results indicated significant association between demographic characteristics and perceived risk on dengue vaccine. The significant factors are education and occupation. Knowledge did not correlate to any demographic characteristics. Binary Logistic Regression revealed that perceived risk and knowledge had a significant association to the consent of parents to have their children vaccinated."
+            },
+            {
+                "text" : "Perceived risk and knowledge on dengue vaccination are predictors of the parent’s intention to allow their children to get the vaccine. Understanding the significance of these factors and their relationship with one another will be very vital in the implementation of dengue vaccination program in the future."
+            }
+        ]
+    },
+    {
+        "id" : 64,
+        "region" : 11,
+        "title" : "Optimization of Used Cooking Oil for the Production of Biodiesel",
+        "details" : "Orcen, J.N., Aligway, R.A., Angelada, N.B., Cuajotor, G., and Letada, K.J.",
+        "location" : "Tagum Doctors College Inc.",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "Biodiesel is a renewable source of energy, making it a better substitute to petroleum diesel, along with its environmental benefits; animal fats and vegetable oils can be used for the production of such. Waste cooking oil is less costly than new vegetable oils and also helps increase food security, therefore making it the potentially best kind of oil to use for the production of biodiesel. The waste cooking oil was purified before it underwent the transesterification process along with the methanol and the catalyst. Waste cooking oil was procured from street vendors from the city’s vicinity in order to minimize the costing of the experiment. "
+            },
+            {
+                "text" : "Results had shown that there was statistically significant difference in the ratios of the biodiesel and the percentage of yield. The ratio with the highest yield of biodiesel was the 8:1 ratio of oil and alcohol and 25 minutes of production time, compared to the sample that resulted to the lowest yield, which was the ratio of 1:1 with 50 minutes of production time. The researchers highly recommend to add soot test for additional testing to measure the practicability of the biodiesel as for its combustion."
+            }
+        ]
+    },
+    {
+        "id" : 65,
+        "region" : "Car",
+        "title" : "Threading the Needle between Copper, Zinc, and Selenium Deficiencies and COVID-19 Infection: A Systematic Review",
+        "details" : "Pamintuan, D.A., Amangao, M.W., Cajucom, E.C., Escobar, J.J., Floresca, J.T., Generalao, R.T., Manangan, N.B., Robles, M.A., and Villan, A.S.",
+        "location" : "Saint Louis University",
+        "image" : "assets/images/lobby/abstract/no-image.jpg",
+        "content" : [
+            {
+                "text" : "COVID-19 rapidly turned into a global pandemic posing deadly threats to overwhelming health care capabilities and people of all ages, with a relatively high mortality rate, especially in critically ill patients. While COVID-19 vaccines are progressively becoming available to the general public, it is critical to identify additional ways to prevent and control the virus. A well-functioning immune system is required to combat the infection."
+            },
+            {
+                "text" : "As a result, this study aims to examine all available research that establishes a link between micronutrient deficiency and SARS-CoV-2 susceptibility, namely with copper, zinc, and selenium deficiencies. Hence, a systematic review was conducted. This study adopted the recommendations provided by the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2015 statement. Furthermore, it included all relevant peer-reviewed journal articles concerning other systematic reviews, cross- sectional studies, randomized clinical trials, and case-control studies. Twenty-one studies were carefully evaluated to determine relevant information paying specific attention to key concepts or theories."
+            },
+            {
+                "text" : "The studies incorporated into the research were organized in the Google Drive project folder for data collection and effective collaboration. Numerous literature in the review synthesis has suggested the link between the host’s susceptibility in acquiring COVID-19 infection with a reduced response from the immune system, subsequently leading to more profound signs and symptoms. With the arrival and worldwide rollout of the COVID-19 vaccination programs, the researchers have deemed the significance of the supplementation of these agents (i.e., Cu, Zn, Se) as a putative treatment option to boost a patient’s immune system against SARS-CoV-2."
+            }
+        ]
+    },
+    {
+        "id" : 70,
+        "region" : "NCR",
+        "title" : "Molecular Identification and Genotyping of Acanthamoeba spp. in Selected Edible Freshwater Fishes in the Philippines",
+        "details" : "Milanez, G., Masangkay, F., Lirio, M., Hagosojos, B., and Karanis, P.",
+        "location" : "Far Eastern University",
+        "image" : "assets/images/lobby/abstract/ncr.jpg",
+        "content" : [
+            {
+                "text" : "Acanthamoebae spp. are ubiquitous organisms that have adapted to different types of habitats  and  conditions.  The  study  of  freshwater  fishes  has  become  the  interest  of  many researchers  for  its  ability  to  harbor  pathogenic organisms  and  play  a  role  in  the transmission cycle to humans.    The present study determined the possible types of Acanthamoebae spp. present from a variety of edible freshwater fishes from major freshwater resources all over the Philippines."
+            },
+            {
+                "text" : "A total of 84 fish samples from 13 different species were sampled. Intestines from each fish species (n=3) were aseptically harvested,  pooled,  processed,  and  cultured  in  non-nutrient  agar  lawned  with  Escherichia  coli. Culture plates were examined for amoebic growth using light microscopy for 14 consecutive days before declaring negative. 31% (4/13) of the fish species sampled were positive for amoebic growth.  DNAs  were  extracted  and  made  to  react  to  polymerase chain reaction (PCR) using Acanthamoeba specific primers."
+            },
+            {
+                "text" : "Further sequencing of  PCR amplicons  confirmed the presence of  four Acanthamoeba species namely: A. palestinensis, A. polyphaga, A. castellanii, and A. lenticulata  from the culture positive samples. This study, to date, presents the most expansive identification of FLA  in  edible  freshwater  fish  types  in  the  Philippines.  The  presence  of  potentially pathogenic Acanthamoebae  spp.  in aquaculture  may  pose  serious  public  health  risks,  especially  if  these freshwater  fishes  are  not  handled  properly.  The  proper  handling  and  preparation  prior  to consumption of fishes in this study are necessary to avoid serious conditions brought about by FLA infection."
+            }
+        ]
+    },
+    {
+        "id" : 71,
+        "region" : "CAR",
+        "title" : "Traditional Knowledge and Practices on Health and Development of Digital Library on Health: Kanakana-ey and Ekachakran Ethnolinguistic Groups of the Cordillera",
+        "details" : "Batani, R.S, Ekid, A.F., Napaldet, J.T, Basbas, A.V., and Loncio, R.S.",
+        "location" : "Benguet State University",
+        "content" : [
+            {
+                "text" : "With the aim of capturing traditional knowledge and practices on health and healing in the context of biodiverse environment, the project conducted participatory data gathering, and a series of capacity building activities in two communities involving Palina, Kibungan and Kadaclan, Barlig in Mtn Province from 2018 to 2020. The participatory qualitative research was complemented by a survey using ethnobotanical indices such as use value index, factor informant consensus and fidelity level for the inventory of medicinal plants while the capacity building involved skills training on biodiversity documentation, packaging of herbal medicine booklet and development of gene bank through herbal garden construction."
+            },
+            {
+                "text" : "Results show that the continuing practice and transformation of traditional knowledge on health and healing partly rests on how much biodiverse resources are maintained and how much of these knowledge continue to be circulated and practiced. For as long as there are knowledge holders and avenues to practice these, it can survive. As datasets would reveal, such knowledges have been ‘marginalized’ and are continuously being threatened due to the interplay of various factors and all these are happening in an age where change has become even faster than imagined. Navigating possibilities has shown that these knowledges can be digitalized; also that such knowledge is best maintained when it is ‘being practiced’ and made tangible through propagation."
+            },
+            {
+                "text" : "In the project, the propagation through the barangay health center and school grounds with community involvement is one means of ensuring its continuity. When it becomes a space for ‘science discovery projects’ then all the more that it becomes ‘mainstreamed’ into the educational processes. It is also interesting to note that everyday conversation show gendered knowledge on herbal plants even as there is robust exchange of knowledge and use of these health resources among women. Certainly, the protection of biodiversity play important role in the flourishing of these knowledge."
+            }
+        ]
+    },
+    {
+        "id" : 72,
+        "region" : 11,
+        "title" : "Bacterial Species Associated with Ectoparasites of Domesticated Animals in a San Pedro College Adopted Community: Basis for Possible Ectoparasite Eradication Program",
+        "details" : "Baron, E.D.",
+        "location" : "San Pedro College",
+        "content" : [
+            {
+                "text" : "As re-emergence of maladies caused by bacterial species continue, the need to identify possible routes of infection of bacterial pathogens, with special focus on ectoparasites infesting domesticated animals, appears timely. It is for this purpose that ectoparasites from domesticated animals of a rural barangay in Davao City was collected, and bacterial species associated with these samples were molecularly detected. Ectoparasites were sourced from animals with hair, feather, and fur via manual extraction."
+            },
+            {
+                "text" : "Samples were then identified based on morphological features and pooled for molecular detection of bacterial species. Fifty domesticated animals were inspected, 41 of which were infested with ectoparasites. Four hundred thirty three individuals of ectoparasites were found: 87 (in chicken), 199 (in dogs), 94 (in cat), nine (in dove), and 44 (in goat) representing 10 species. Five bacterial taxa were detected from the pooled ectoparasites: Listeria monocytogenes, Bartonella tribocorum, Treponema brennaborense, Thermoanaerobacterium thermosaccharolyticum, and Devosia sp. Only L. monocytogenes is known to infect humans while B. tribocorum and T. brennaborense infects animals."
+            },
+            {
+                "text" : "Data suggest the differential distribution of ectoparasites among domesticated animals in this rural barangay. Moreover, ectoparasites may transfer from one domesticated animal to another given the occurrence of several ectoparasite species in more than one inspected domesticated animal. The detection of bacterial species, some of which are known pathogens, highlight the capacity of the ectoparasites as potential pathogen carriers. Current data however warrants further studies to establish route of infection and craft measures to prevent pathogen transfer."
+            }
+        ]
+    },
+    {
+        "id" : 73,
+        "region" : 9,
+        "title" : "Fetal and Maternal Outcomes of Mothers Diagnosed with COVID-19 Who Delivered in Zamboanga City Medical Center, Zamboanga City from March to September 2020 - A Clinical Case Series",
+        "details" : "Dantes, B.I.",
+        "location" : "Zamboanga City Medical Center",
+        "image" : "assets/images/lobby/abstract/9.jpg",
+        "content" : [
+            {
+                "text" : "COVID 19 is a global public health emergency that we are facing today. The study is a clinical case series in describing the fetal and maternal outcomes of mothers diagnosed with COVID 19 and delivered in Zamboanga City Medical Center from March 27, 2020 to September 30, 2020. This study is a retrospective descriptive type research which utilized the medical records of the mothers diagnosed with COVID 19."
+            },
+            {
+                "text" : "The fetal health outcomes included evaluation of APGAR score, neonatal birthweight, newborn’s medical complications during and after delivery, and discharge outcome. For the maternal outcome, the study included the medical complications developed antepartum, postpartum, length of hospital stays, and discharge outcome. Demographic data of the respondents were analyzed using frequency and percentage distribution. Central tendency using median and mode were utilized as statistical treatment for the study. "
+            },
+            {
+                "text" : "The study gathered a total of 49 mothers who tested positive, three of the newborns tested positive and one case of intrauterine fetal death who was not tested. Thirty-seven mothers had normal vaginal delivery and 12 delivered via low segment cesarean section due to obstetric reasons and not because of COVID 19 infection. All neonates delivered have normal APGAR score. Majority of the neonates have appropriate weight for their gestational age, and most were roomed in with their mothers while only 3 required neonatal ICU admission. All the respondents improved and subsequently discharged with no COVID 19 related complications. "
+            }
+        ]
+    },
+    {
+        "id" : 74,
+        "region" : 8,
+        "title" : "The Association between Neutrophil to Lymphocyte Count Ratio and Mortality among Patients with Septic Shock admitted at Department of Internal Medicine, Eastern Visayas Regional Medical Center: A Prospective Study",
+        "details" : "Arbas, L.",
+        "location" : "Eastern VIsayas Regional Medical Center",
+        "content" : [
+            {
+                "text" : "Sepsis is a life-threatening condition caused by dysregulation of the immune system due to bacterial invasion from different organ system. Moreover, when this organ damage lead to hypotension and cellular damage, septic shock occurs. There are several biomarkers used as predictors or prognostic markers for septic shock however they are costly and some are not available in other hospitals, most especially. This study used neutrophil-lymphocyte count ratio as marker because of its accessibility and inexpensiveness; and aimed to determine the association between baseline neutrophil to lymphocyte count ratio (NLCR) and mortality among patients with diagnosis of septic shock."
+            },
+            {
+                "text" : "A prospective cohort design is used with ninety-four (94) patients qualified as research subjects. NLCR was computed from the CBC taken from the admission or diagnosis and grouped into two, either > 10 or < 10. Among the subjects, fifty-three (56.4%) were males while only 41 (43.6%) were females, and mostly are aged >65 years.  The common source of infection among the research subjects was pulmonary in 58.4%. The outcomes recorded for this study were the number of patients who were discharged versus the number of patients who expired, 58 out of the 94 patients (61.7%) were discharged from the hospital, while 36 (38.3%) has expired."
+            },
+            {
+                "text" : "A cross tabulation of the patient’s clinical outcomes against their NLCR was also included and it showed that 21 of the 53 patients (39.62%) who had an NLCR >10 has expired while 15 of the 41 (36.5%) patients who had an NLCR lower than 10 has expired. This information showed that there is not much difference in the proportion of patients who expired between the two groups (NLCR >10 and NLCR <10). Since the p value computed in this study is higher than the significance level of 0.05, it can be concluded that there is no significant association between NLCR and the clinical outcome."
+            }
+        ]
+    },
+    {
+        "id" : 75,
+        "region" : 6,
+        "title" : "Prevalence of Depression among Persons Living With HIV/AIDS Who Seek Consultation at The HIV/AIDS Core Team Clinic of Western Visayas Medical Center",
+        "details" : "Daquilanea-Chin, M.",
+        "location" : "Western Visayas Medical Center",
+        "image" : "assets/images/lobby/abstract/6.jpg",
+        "content" : [
+            {
+                "text" : "Sepsis is a life-threatening condition caused by dysregulation of the immune system due to bacterial invasion from different organ system. Moreover, when this organ damage lead to hypotension and cellular damage, septic shock occurs. There are several biomarkers used as predictors or prognostic markers for septic shock however they are costly and some are not available in other hospitals, most especially. This study used neutrophil-lymphocyte count ratio as marker because of its accessibility and inexpensiveness; and aimed to determine the association between baseline neutrophil to lymphocyte count ratio (NLCR) and mortality among patients with diagnosis of septic shock."
+            },
+            {
+                "text" : "A prospective cohort design is used with ninety-four (94) patients qualified as research subjects. NLCR was computed from the CBC taken from the admission or diagnosis and grouped into two, either > 10 or < 10. Among the subjects, fifty-three (56.4%) were males while only 41 (43.6%) were females, and mostly are aged >65 years.  The common source of infection among the research subjects was pulmonary in 58.4%. The outcomes recorded for this study were the number of patients who were discharged versus the number of patients who expired, 58 out of the 94 patients (61.7%) were discharged from the hospital, while 36 (38.3%) has expired."
+            },
+            {
+                "text" : "A cross tabulation of the patient’s clinical outcomes against their NLCR was also included and it showed that 21 of the 53 patients (39.62%) who had an NLCR >10 has expired while 15 of the 41 (36.5%) patients who had an NLCR lower than 10 has expired. This information showed that there is not much difference in the proportion of patients who expired between the two groups (NLCR >10 and NLCR <10). Since the p value computed in this study is higher than the significance level of 0.05, it can be concluded that there is no significant association between NLCR and the clinical outcome."
+            }
+        ]
+    },
+     {
+        "id" : 76,
+        "region" : "4B",
+        "title" : "Cytotoxic and Apoptotic Activities of Phlogiellus bundokalbo Venom against Human Lung Adenocarcinom (A549) Cells",
+        "details" : "Mayor, A.R., Nuñeza, O.M., Guevarra, L.A., and Santiago, L.A.",
+        "location" : "Romblon State University",
+        "image" : "assets/images/lobby/abstract/4b.jpg",
+        "content" : [
+            {
+                "text" : "Lung cancer is the 2nd death-causing cancer in the Philippines accounting to 1.8% of the total death.  Utilization and development of natural drugs became one of the means of preventing unnecessary deaths due to inherent side effects of conventional treatments.  Among the medically important species are spiders, which have remarkable pharmacological importance due to the presence of various bioactive compounds in its venom.  While some research discussed the potential anticancer application of spider venom, sparse scientific evidence is available to support the possible application of spider venom for cancer therapy.  Thus, the aim of this research is to assess the cytotoxic activity of Phlogiellus bundokalbo spider venom towards human lung adenocarcinoma (A549) cells. The crude spider venom of P. bundokalbo was fractionated by reversed-phase high performance liquid chromatography (RP-HPLC), and six fractions were obtained.  Consequently, these fractions, together with the crude spider venom, were assessed for their possible inhibitory activity towards A549 cells."
+            },
+            {
+                "text" : "Results showed that fractions AT5-1, AT5-3 and AT5-6 had the highest inhibitory activity, with IC50 values of 14.55μg/mL, 15.07μg/mL and 17.34μg/mL, respectively after a 48-hour treatment.  Moreover, crude spider venom and its fractions exhibited a minimal cytotoxicity towards normal mouse myoblast (C2C12) cells.  Morphological observation of the cytological features of A549 cells after post-treatment with the crude spider venom and its fractions demonstrated different changes including membrane blebbing, nuclear condensation, and cell shrinkage or deformation.  Fluorescent dye staining using Alexa Fluor 488 and Hoescht 33342 showed apoptotic cells as the concentration of spider venom and its fractions increases, except for fractions AT5-5 and AT5-6.  Lastly, the fractions AT5-1 and AT5-3 showed high caspase-3 and -7 activation that were comparable with Cisplatin."
+            },
+            {
+                "text" : "In conclusion, the in vitro cytotoxicity assay on human lung adenocarcinoma suggested that the venom of P. bundokalbo spider has a potential anticancer agent against lung cancer thru facilitating cytotoxicity and apoptosis by inducing caspase activity.  However, specific apoptotic molecular targets should be studied more to elucidate the definite molecular mechanism involved in the cytotoxic activity of the spider venom.  Moreover, elaborate findings on the structural aspects responsible for this activity will also be pivotal in considering further development as a clinically useful pharmaceutical agent."
+            }
+        ]
+    },
+    {
+        "id" : 77,
+        "region" : 3,
+        "title" : "Proximate Nutritive Composition and Functional Activities of Cyclocybe cylindracea and Pleurotus cornucopiae",
+        "details" : "Landingin, H.R., Francisco, B.E., Dulay, R.R., Kalaw, S.P., and Reyes, R.G.",
+        "location" : "Central Luzon State University",
+        "content" : [
+            {
+                "text" : "Lung cancer is the 2nd death-causing cancer in the Philippines accounting to 1.8% of the total death.  Utilization and development of natural drugs became one of the means of preventing unnecessary deaths due to inherent side effects of conventional treatments.  Among the medically important species are spiders, which have remarkable pharmacological importance due to the presence of various bioactive compounds in its venom.  While some research discussed the potential anticancer application of spider venom, sparse scientific evidence is available to support the possible application of spider venom for cancer therapy.  Thus, the aim of this research is to assess the cytotoxic activity of Phlogiellus bundokalbo spider venom towards human lung adenocarcinoma (A549) cells. The crude spider venom of P. bundokalbo was fractionated by reversed-phase high performance liquid chromatography (RP-HPLC), and six fractions were obtained.  Consequently, these fractions, together with the crude spider venom, were assessed for their possible inhibitory activity towards A549 cells."
+            },
+            {
+                "text" : "Results showed that fractions AT5-1, AT5-3 and AT5-6 had the highest inhibitory activity, with IC50 values of 14.55μg/mL, 15.07μg/mL and 17.34μg/mL, respectively after a 48-hour treatment.  Moreover, crude spider venom and its fractions exhibited a minimal cytotoxicity towards normal mouse myoblast (C2C12) cells.  Morphological observation of the cytological features of A549 cells after post-treatment with the crude spider venom and its fractions demonstrated different changes including membrane blebbing, nuclear condensation, and cell shrinkage or deformation.  Fluorescent dye staining using Alexa Fluor 488 and Hoescht 33342 showed apoptotic cells as the concentration of spider venom and its fractions increases, except for fractions AT5-5 and AT5-6.  Lastly, the fractions AT5-1 and AT5-3 showed high caspase-3 and -7 activation that were comparable with Cisplatin."
+            },
+            {
+                "text" : "In conclusion, the in vitro cytotoxicity assay on human lung adenocarcinoma suggested that the venom of P. bundokalbo spider has a potential anticancer agent against lung cancer thru facilitating cytotoxicity and apoptosis by inducing caspase activity.  However, specific apoptotic molecular targets should be studied more to elucidate the definite molecular mechanism involved in the cytotoxic activity of the spider venom.  Moreover, elaborate findings on the structural aspects responsible for this activity will also be pivotal in considering further development as a clinically useful pharmaceutical agent."
+            }
+        ]
+    },
+    {
+        "id" : 78,
+        "region" : 2,
+        "title" : "Growth Inhibition of Aspergillus flavus and Aspergillus niger for the Control of Aspergillosis and Related Diseases",
+        "details" : "Montenegro, K.M., Moreno, C.P., Bajet, J.D., Blancas, P.S., Ramirez, R.B., and Muñoz, M.M.",
+        "location" : "Cagayan State University - Andrews Campus",
+        "content" : [
+            {
+                "text" : "Aspergillosis is an infection caused by a fungus, Aspergillus sp, which lives in the soil, plants, and rotting material. It can also be found in house dust, carpet, heating and airconditioning ducts, certain foods including dried fish.  Previous studies have shown that individual with weak immune system increases the occurrence of this fungal infection. It is now the leading cause of death in USA due to invasive fungal infection. In this study, we hypothesized that Ficus septica Burm. f. shows antifungal activity on Aspergillus flavus and Aspergillus niger and exhibits cytotoxic properties on HCT – 116, a colonic cancer cell line."
+            },
+            {
+                "text" : "Organoleptic, physicochemical, histochemical and safety analyses were conducted for the plant sample, F. septica Burm. f. Antifungal assay showed that A. flavus were susceptible at 7.5 – 10 mg/ml of the extracts; intermediate at 2.5 – 5.0 mg/ml and resistant at 0.5 – 2.0 mg/ml while A. niger were susceptible on all concentrations of the ethanolic extracts of F. septica Burm. f. In separate experiment, MTT assay showed that F. septica Burm. F was cytotoxic at all dilutions and it had the strongest cytotoxicity at 12.5 µg/ml concentration and 86.91% growth inhibition with an IC50 of 0.161 µg/ml."
+            },
+            {
+                "text" : "This study suggests that extracted Liwliw have antifungal activity and anti-cancer property. It is likely that a fungicide could be developed based on the results of the assays. Further studies are necessary to validate the anti-cancer property using different biomarkers."
+            }
+        ]
     }
 ]

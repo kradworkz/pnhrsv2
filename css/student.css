@@ -1,0 +1,330 @@
+
+@media screen and (min-width: 1800px){
+	#student {
+		margin-left: auto;
+        margin-right: auto;
+        margin-top: -70px;
+	  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1799px) {
+	#student {
+        -moz-transform: scale(.9);
+        left: -90px;
+        top: -100px;
+	  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1699px) {
+	#student {
+        -moz-transform: scale(.9);
+        left: -100px;
+        top: -120px;
+	  }
+}
+@media screen and (min-width: 1500px) and (max-width: 1599px) {
+	#student {
+        -moz-transform: scale(.84);
+        left: -190px;
+        top: -140px;
+	  }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1499px) {
+	#student {
+        -moz-transform: scale(0.8);
+        left: -240px;
+        top: -160px;
+	  }
+}
+
+@media screen and (min-width: 1350px) and (max-width: 1399px) {
+	#student {
+        -moz-transform: scale(0.75);
+        left: -280px;
+        top: -160px;
+	  }
+}
+
+@media screen and (min-width: 1250px) and (max-width: 1350px) {
+	#student {
+        -moz-transform: scale(0.72);
+        left: -300px;
+        top: -180px;
+	  }
+}
+
+@media screen and (min-width: 1150px) and (max-width: 1249px) {
+	#student {
+        -moz-transform: scale(0.67);
+        left: -380px;
+        top: -220px;
+	  }
+}
+
+@media screen and (min-width: 1100px) and (max-width: 1149px) {
+	#student {
+        -moz-transform: scale(0.64);
+        left: -400px;
+        top: -230px;
+	  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1099px) {
+	#student {
+        -moz-transform: scale(0.56);
+        left: -430px;
+        top: -240px;
+	  }
+}
+
+ul#student{
+    list-style: none;
+    width: 1920px;
+	height: 1080px;
+    position: relative;
+	background: url(../assets/images/lobby/student1.jpg) no-repeat center;
+	background-size: contain;
+  
+}
+
+ul#student li{
+	position: absolute;
+}
+
+.rr1 {
+    width: 310px;
+    height: 226px;
+    bottom: 600px;
+    left: 455px;
+    background-image: url(../assets/images/lobby/rr1.png);
+	background-size: cover;
+}
+
+
+.rr2 {
+    width: 310px;
+    height: 226px;
+    bottom: 600px;
+    left: 1145px;
+    background-image: url(../assets/images/lobby/rr2.png);
+	background-size: cover;
+}
+
+.rr3 {
+    width: 360px;
+    height: 262px;
+    bottom: 400px;
+    left: 354px;
+    background-image: url(../assets/images/lobby/rr3.png);
+	background-size: cover;
+}
+
+.rr4 {
+    width: 360px;
+    height: 262px;
+    bottom: 400px;
+    left: 1205px;
+    background-image: url(../assets/images/lobby/rr4.png);
+	background-size: cover;
+}
+.rr5 {
+    width: 422px;
+    height: 320px;
+    bottom: 153px;
+    left: 221px;
+    background-image: url(../assets/images/lobby/rr5.png);
+	background-size: cover;
+}
+.rr6 {
+    width: 422px;
+    height: 320px;
+    bottom: 153px;
+    left: 1275px;
+    background-image: url(../assets/images/lobby/rr6.png);
+	background-size: cover;
+}
+
+.rrpeople {
+    width: 918px;
+    height: 728px;
+    bottom: 54px;
+    left: 365px;
+    background-image: url(../assets/images/lobby/rrpeople.png);
+	background-size: cover;
+}
+
+
+
+.p1 {
+    width: 103px;
+    height: 189px;
+    bottom: 96px;
+    left: 395px;
+    background-image: url(../assets/images/lobby/p1.png);
+	background-size: cover;
+}
+
+.p2 {
+    width: 110px;
+    height: 183px;
+    bottom: 373px;
+    left: 1177px;
+    background-image: url(../assets/images/lobby/p2.png);
+	background-size: cover;
+}
+
+
+.p3 {
+    width: 46px;
+    height: 136px;
+    bottom: 581px;
+    left: 727px;
+    background-image: url(../assets/images/lobby/p3.png);
+	background-size: cover;
+}
+
+.p4 {
+    width: 39px;
+    height: 120px;
+    bottom: 581px;
+    left: 1137px;
+    background-image: url(../assets/images/lobby/p4.png);
+	background-size: cover;
+}
+
+.p5 {
+    width: 51px;
+    height: 112px;
+    bottom: 660px;
+    left: 838px;
+    background-image: url(../assets/images/lobby/p5.png);
+	background-size: cover;
+}
+
+.p6 {
+    width: 57px;
+    height: 141px;
+    bottom: 289px;
+    left: 892px;
+    background-image: url(../assets/images/lobby/p6.png);
+	background-size: cover;
+}
+
+.p7 {
+    width: 57px;
+    height: 118px;
+    bottom: 489px;
+    left: 980px;
+    background-image: url(../assets/images/lobby/p7.png);
+	background-size: cover;
+}
+
+.p8 {
+    width: 132px;
+    height: 136px;
+    bottom: 137px;
+    left: 1446px;
+    background-image: url(../assets/images/lobby/p8.png);
+	background-size: cover;
+}
+
+.stand {
+    width: 194px;
+    height: 152px;
+    bottom: 125px;
+    left: 865px;
+    background-image: url(../assets/images/lobby/stand.png);
+	background-size: cover;
+}
+
+
+
+
+.top {
+    width: 300px;
+    height: 45px;
+    bottom: 196px;
+    left: 838px;
+    
+}
+
+.neonText {
+    color: #fff;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    text-shadow:
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173;
+  }
+
+  .top h1 {
+    font-size: 1.5rem;
+    animation: pulsate 1s infinite alternate;  
+    padding: 0.4em;
+  }
+  
+  @keyframes pulsate {
+      
+    100% {
+  
+        text-shadow:
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173;
+    
+    }
+    
+    0% {
+  
+      text-shadow:
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173;
+  
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
