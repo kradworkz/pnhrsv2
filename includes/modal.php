@@ -40,7 +40,7 @@
                 <div class="card card-body text-center">
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
-                            <img :src="research.image" class="img-fluid" style="height: 55vh;" alt="..">
+                            <a :href="research.image" target="_blank"><img :src="research.image" class="img-fluid" style="height: 55vh;" alt=".."></a>
                         </div>
                         <div class="col-lg-6">
                             <h6 class="text-primary"><b>{{ research.title }}</b></h6>
