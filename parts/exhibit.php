@@ -50,5 +50,6 @@
         <li class="r11"></li> -->
     </ul>
 
-    <button @click="ex = 'lobby'" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to City</<button>
+    <button v-if="ex == 'student'" @click="ex = 'lobby'" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to Lobby</<button>
+    <button v-if="ex == 'lobby'" @click="content = 'island'" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to City</<button>
 </div>
