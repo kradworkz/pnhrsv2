@@ -27,7 +27,9 @@ document.addEventListener('DOMContentLoaded', function () {
             landmark: [],
             guide : false,
             ex: 'lobby',
-            research : []
+            research : [],
+            check : '',
+            ids : []
         },
 
         created(){
@@ -42,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
             },
 
             getL(){
-                axios.get('json/landmarks.json')
+                axios.get('json/landmark.json')
                 .then(response => {
                     this.lists = response.data;
                 })
@@ -109,8 +111,32 @@ document.addEventListener('DOMContentLoaded', function () {
             },
 
             viewabstract(id){
-                this.research = this.lists.find(list => list.id === id)
+                this.research = this.lists.find(list => list.id === id);
+                
+                if (localStorage.getItem("posterIds") != null) {
+                    this.ids = localStorage.getItem("posterIds");
+                    this.check = this.ids.includes(id);
+                }else{
+                    this.ids =  localStorage.setItem('posterIds', [])
+                    this.check = false;
+                }
+                
+               
+                if(!this.check){
+                    axios.get('json/test.php?id='+id)
+                    .then(response => {
+                    this.research.views = response.data;
+                    })
+                    .catch((e) => {
+                        console.error(e)
+                    });
+                    let bookData = this.ids ? JSON.parse(this.ids) : []
+                    bookData.push(id);
+                    localStorage.setItem('posterIds', JSON.stringify(bookData))
+                }
+
                 $("#openabstract").modal('show');
+               
             },
 
             closeview(type){

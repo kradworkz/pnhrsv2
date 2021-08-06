@@ -32,7 +32,7 @@
     <div class="modal-dialog modal-dialog-centered modal-xl">
         <div class="modal-content">
             <div class="modal-header">
-                <h6 class="modal-title mt-0" id="myExtraLargeModalLabel">View Abstract</h6>
+                <h6 class="modal-title mt-0" id="myExtraLargeModalLabel">Views : {{research.views}}</h6>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                 </button>
             </div>
