@@ -57,6 +57,14 @@
         <li @click="viewabstract(73)" class="pp7 zoom3"></li>
         <li @click="viewabstract(74)" class="pp8 zoom3"></li>
         <li @click="viewabstract(75)" class="pp9 zoom3"></li>
+        <li class="o1"></li>
+        <li class="o2"></li>
+        <li class="o3"></li>
+        <li class="o4"></li>
+        <li class="o5"></li>
+        <li class="o6"></li>
+        <li class="o7"></li>
+        <li class="o8"></li>
     </ul>
 
     <button v-if="ex == 'student' || ex == 'professional'" @click="closeview('ex')" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to Lobby</<button>

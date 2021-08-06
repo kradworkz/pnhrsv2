@@ -174,6 +174,82 @@ ul#professional li{
 
 
 
+.o1 {
+    width: 103px;
+    height: 189px;
+    bottom: 96px;
+    left: 395px;
+    background-image: url(../assets/images/lobby/p1.png);
+	background-size: cover;
+}
+
+.o2 {
+    width: 110px;
+    height: 183px;
+    bottom: 373px;
+    left: 1177px;
+    background-image: url(../assets/images/lobby/p2.png);
+	background-size: cover;
+}
+
+
+.o3 {
+    width: 46px;
+    height: 136px;
+    bottom: 581px;
+    left: 633px;
+    background-image: url(../assets/images/lobby/p3.png);
+	background-size: cover;
+}
+
+.o4 {
+    width: 39px;
+    height: 120px;
+    bottom: 581px;
+    left: 1241px;
+    background-image: url(../assets/images/lobby/p4.png);
+	background-size: cover;
+}
+
+.o5 {
+    width: 51px;
+    height: 112px;
+    bottom: 660px;
+    left: 765px;
+    background-image: url(../assets/images/lobby/p5.png);
+	background-size: cover;
+}
+
+.o6 {
+    width: 57px;
+    height: 141px;
+    bottom: 158px;
+    left: 872px;
+    background-image: url(../assets/images/lobby/p6.png);
+	background-size: cover;
+}
+
+.o7 {
+    width: 57px;
+    height: 118px;
+    bottom: 412px;
+    left: 658px;
+    background-image: url(../assets/images/lobby/p7.png);
+	background-size: cover;
+}
+
+.o8 {
+    width: 132px;
+    height: 136px;
+    bottom: 137px;
+    left: 1446px;
+    background-image: url(../assets/images/lobby/p8.png);
+	background-size: cover;
+}
+
+
+
+
 
 
 
