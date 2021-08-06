@@ -65,6 +65,9 @@
         <li class="o6"></li>
         <li class="o7"></li>
         <li class="o8"></li>
+        <li class="top1">
+            <h1 class="neonText">PROFESSIONAL CATEGORY </h1>
+        </li>
     </ul>
 
     <button v-if="ex == 'student' || ex == 'professional'" @click="closeview('ex')" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to Lobby</<button>

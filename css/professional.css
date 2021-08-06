@@ -247,7 +247,58 @@ ul#professional li{
 	background-size: cover;
 }
 
+.top1 {
+    width: 430px;
+    height: 45px;
+    bottom: 130px;
+    left: 789px;
+    
+}
 
+
+.neonText {
+    color: #fff;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    text-shadow:
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173,
+      0 0 7px #ce4173;
+  }
+
+  .top1 h1 {
+    font-size: 1.5rem;
+    animation: pulsate 1s infinite alternate;  
+    padding: 0.4em;
+  }
+  
+  
+  @keyframes pulsate {
+      
+    100% {
+  
+        text-shadow:
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173,
+        0 0 12px #ce4173;
+    
+    }
+    
+    0% {
+  
+      text-shadow:
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173,
+      0 0 1px #ce4173;
+  
+  }
+
+}
 
 
 
