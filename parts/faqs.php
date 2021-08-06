@@ -49,7 +49,8 @@
                                                     <div class="collapse show">
                                                         <div class="card-body font-size-12">
                                                             <p>The event will be streamed live and can be replayed at our Facebook account.</p>
-                                                            <p class="mb-0">Link here: <a href="https://www.facebook.com/DOSTRegion9" target="_blank"><b>DOST Regional Office No. IX</b></a></p>   
+                                                            <p>Link here: <a href="https://www.facebook.com/DOSTRegion9" target="_blank"><b>DOST Regional Office No. IX</b></a></p>   
+                                                            <p class="mb-0">The presentation materials, program book and recorded video may be downloaded at the Resources tab</p>
                                                         </div>
                                                     </div>
                                                 </div>
