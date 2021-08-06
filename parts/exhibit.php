@@ -4,7 +4,7 @@
         <li class="a-2 zoom2"></li>
         <li @click="guide = true" class="a-3 zoom2"></li>
         <li @click="ex = 'student'" class="d1 zoom3"></li>
-        <li class="d2 zoom3"></li>
+        <li @click="ex = 'professional'" class="d2 zoom3"></li>
         <li class="l0"></li>
         <li class="l1"></li>
         <li class="l2"></li>
@@ -25,9 +25,6 @@
         <li @click="viewabstract(64)" class="rr4 zoom3"></li>
         <li @click="viewabstract(60)" class="rr5 zoom3"></li>
         <li @click="viewabstract(65)" class="rr6 zoom3"></li>
-        <!-- <li class="rrpeople"></li> -->
-
-
         <li class="p1"></li>
         <li class="p2"></li>
         <li class="p3"></li>
@@ -50,6 +47,18 @@
         <li class="r11"></li> -->
     </ul>
 
-    <button v-if="ex == 'student'" @click="ex = 'lobby'" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to Lobby</<button>
-    <button v-if="ex == 'lobby'" @click="content = 'island'" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to City</<button>
+    <ul id="professional" v-if="ex == 'professional'">
+        <li @click="viewabstract(76)" class="pp1 zoom3"></li>
+        <li @click="viewabstract(71)" class="pp2 zoom3"></li>
+        <li @click="viewabstract(77)" class="pp3 zoom3"></li>
+        <li @click="viewabstract(70)" class="pp4 zoom3"></li>
+        <li @click="viewabstract(78)" class="pp5 zoom3"></li>
+        <li @click="viewabstract(72)" class="pp6 zoom3"></li>
+        <li @click="viewabstract(73)" class="pp7 zoom3"></li>
+        <li @click="viewabstract(74)" class="pp8 zoom3"></li>
+        <li @click="viewabstract(75)" class="pp9 zoom3"></li>
+    </ul>
+
+    <button v-if="ex == 'student' || ex == 'professional'" @click="closeview('ex')" id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to Lobby</<button>
+    <button v-if="ex == 'lobby'" @click="closeview('content')"id="wew" type="button" class="btn btn-primary waves-effect waves-light">Back to City</<button>
 </div>

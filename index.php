@@ -15,6 +15,7 @@
         <link href="css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/lobby.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="css/student.css" id="app-style" rel="stylesheet" type="text/css" />
+        <link href="css/professional.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/plane.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/main.css" id="app-style" rel="stylesheet" type="text/css" />
         <link href="assets/css/animation.css" id="app-style" rel="stylesheet" type="text/css" />
@@ -70,7 +71,7 @@
             </section>
 
             <footer class="landing-footer" v-if="content == 'register'" ><div class="container"><div class="row" style="margin-top: -30px;"><div class="col-lg-6"><div class="mb-4"><img src="assets/images/logo-light.png" alt="" height="20"></div> <p class="mb-2">2021 © PNHRS. Developed by DOST-IX</p></div> <div class="col-lg-6"><div style="float: right;"><div data-href="https://www.facebook.com/DOSTRegion9" data-width="380" data-hide-cover="false" data-show-facepile="false" class="fb-page fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=258059077674129&amp;container_width=0&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FDOSTRegion9&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;width=380"><span style="vertical-align: bottom; width: 380px; height: 130px;"><iframe name="f3d9237fe316c9c" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none; visibility: visible; width: 380px; height: 130px;" src="https://www.facebook.com/v11.0/plugins/page.php?app_id=258059077674129&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df222659f4fad344%26domain%3Dlocalhost%26origin%3Dhttp%253A%252F%252Flocalhost%252Ff3e1e4c27040d%26relation%3Dparent.parent&amp;container_width=0&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FDOSTRegion9&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;width=380" __idm_frm__="57982058497" class="" width="380px" height="1000px" frameborder="0"></iframe></span></div></div></div></div></div></footer>
-            <span  v-if="content != 'island'" @click="content = 'island'" class="text-danger bx-tada" style="float: right; font-size: 60px; position: fixed; bottom: 10px; right: 20px;"><i class="bx bxs-x-circle"></i></span>
+            <span  v-if="content != 'island'" @click="closeview('content')" class="text-danger bx-tada" style="float: right; font-size: 60px; position: fixed; bottom: 10px; right: 20px;"><i class="bx bxs-x-circle"></i></span>
 
             <script src="assets/libs/jquery/jquery.min.js"></script>
             <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>

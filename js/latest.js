@@ -111,6 +111,15 @@ document.addEventListener('DOMContentLoaded', function () {
             viewabstract(id){
                 this.research = this.lists.find(list => list.id === id)
                 $("#openabstract").modal('show');
+            },
+
+            closeview(type){
+                if(type == 'ex'){
+                    this.ex = 'lobby';
+                }else{
+                    this.content = 'island';
+                    this.ex = 'lobby';
+                }
             }
 
         }

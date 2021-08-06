@@ -97,11 +97,11 @@
 
 
   .plane {
-    top: 150px;
-    width: 25%;
+    top: 127px;
+    width: 30%;
     height:auto;
     position: absolute;
-    animation: slide 12s 1 linear forwards;
+    animation: slide 20s 1 linear forwards;
   }
 
   @keyframes slide {

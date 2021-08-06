@@ -5,8 +5,8 @@
     <span class="font-size-10 text-white"><i class='bx bx-map-pin'></i> Zamboanga City</span></p>
 </div>
 <div class="">
-    <div v-if="!isMobile()" class="row align-items-center" style="margin-top: -100px; margin-left: 20px;">
-        <div class="col-lg-12">
+    <div v-if="!isMobile()" class="row">
+        <div>
             <ul id="map">
                 <!-- <li @click="openmodal(1)" class="dakak zoom"></li>     -->
                 <li @click="openmodal(1)" class="stacruz zoom"></li>
@@ -39,7 +39,6 @@
                 <li class="fire zoom"></li>
                 <li class="treehouse zoom"></li>
                 <li class="vinta2"></li>
-                <!-- <li href="register.php" target="_blank"><li class="register bx-tada"></li></a> -->
             </ul>
         </div>
     </div>
@@ -100,7 +99,7 @@
         <a @click="view('faqs')"><img class="faq" src="assets/images/landing/new/designs/faq.png" onmouseover="this.src='assets/images/landing/new/designs/e-5.png'" onmouseout="this.src='assets/images/landing/new/designs/faq.png'"></a> 
         <a @click="view('resources')"><img class="resources" src="assets/images/landing/new/designs/resources.png" onmouseover="this.src='assets/images/landing/new/designs/e-6.png'" onmouseout="this.src='assets/images/landing/new/designs/resources.png'"></a> 
     </div>
-    <div v-if="!isMobile()">
+    <div class="toplogos" v-if="!isMobile()">
         <a class="wew" href="https://14thpnhrsweekcelebration.dost9.ph/" target="_blank"><img class="logo" src="assets/images/landing/logo.png"></a>
         <a href="https://region9.dost.gov.ph" target="_blank"><img class="l-1" src="assets/images/krad/dost.png"></a>
         <a href="https://www.pchrd.dost.gov.ph" target="_blank"><img class="l-2" src="assets/images/krad/pchrd.png"></a>
