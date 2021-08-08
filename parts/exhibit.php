@@ -1,6 +1,6 @@
 <div>
     <ul id="lobby" v-if="ex == 'lobby'">
-        <li class="a-1 zoom2"></li>
+        <li @click="about = true" class="a-1 zoom2"></li>
         <li class="a-2 zoom2"></li>
         <li @click="guide = true" class="a-3 zoom2"></li>
         <li @click="ex = 'student'" class="d1 zoom3"></li>
@@ -15,6 +15,9 @@
         <div v-if="guide == true" @click="guide = false" style="background-color:rgba(0,0,0,0.8); width: 2000px; height: 100%; z-index: 10; position: absolute; margin-left: -50px;" >
             <li class="g1"></li>
             <li class="g2"></li>
+        </div>
+        <div v-if="about == true" @click="about = false" style="background-color:rgba(0,0,0,0.8); width: 2000px; height: 100%; z-index: 10; position: absolute; margin-left: -50px;" >
+            <li class="aa1"></li>
         </div>
     </ul>
 

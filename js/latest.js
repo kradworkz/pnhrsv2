@@ -29,7 +29,8 @@ document.addEventListener('DOMContentLoaded', function () {
             ex: 'lobby',
             research : [],
             check : '',
-            ids : []
+            ids : [],
+            about: false
         },
 
         created(){

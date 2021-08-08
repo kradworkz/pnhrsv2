@@ -99,6 +99,15 @@ ul#lobby li{
 	position: absolute;
 }
 
+.aa1 {
+    width: 791px;
+    height: 793px;
+    bottom: 199px;
+    left: 587px;
+    background-image: url(../assets/images/lobby/a1.png);
+	background-size: cover;
+}
+
 .g1 {
     width: 480px;
     height: 860px;
