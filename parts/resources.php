@@ -28,9 +28,14 @@
                                         </thead>
                                     <tbody>
                                         <tr>
-                                            <td><a href="javascript: void(0);" class="text-dark font-weight-medium"><i class="mdi mdi-file-document font-size-16 align-middle text-primary mr-2"></i> logo.png</a></td>
-                                            <td>12-10-2020, 09:45</td>
-                                            <td>09 KB</td>
+                                            <td><a href="assets/images/downloads/14th PNHRS Week Program Book.pdf" class="text-dark font-weight-medium"><i class="mdi mdi-file-document font-size-16 align-middle text-primary mr-2"></i> 14th PNHRS Week Program Book</a></td>
+                                            <td>8/11/2021</td>
+                                            <td>2755kb</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="assets/images/downloads/14th PNHRS Week Main Conference Program.pdf" class="text-dark font-weight-medium"><i class="mdi mdi-file-document font-size-16 align-middle text-primary mr-2"></i> 14th PNHRS Week Main Conference Program</a></td>
+                                            <td>8/11/2021</td>
+                                            <td>510kb</td>
                                         </tr>
                                     </tbody>
                                 </table>
