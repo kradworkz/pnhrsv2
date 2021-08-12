@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if(!this.check){
                     axios.get('json/test.php?id='+id)
                     .then(response => {
-                    this.research.views = response.data;
+                        this.research.views = response.data;
                     })
                     .catch((e) => {
                         console.error(e)
