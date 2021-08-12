@@ -30,7 +30,11 @@ document.addEventListener('DOMContentLoaded', function () {
             research : [],
             check : '',
             ids : [],
-            about: false
+            about: false,
+            s : [60,61,62,63,64,65],
+            p : [70,71,72,73,74,75,76,77,78],
+            ss :[],
+            pp : []
         },
 
         created(){
@@ -48,6 +52,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 axios.get('json/landmark.json')
                 .then(response => {
                     this.lists = response.data;
+                    this.ss = this.lists.filter(({id}) => this.s.includes(id));
+                    this.ss = this.ss.sort((a, b) => b.views - a.views);
+                    this.pp = this.lists.filter(({id}) => this.p.includes(id));
+                    this.pp = this.pp.sort((a, b) => b.views - a.views);
                 })
                 .catch((e) => {
                     console.error(e)
@@ -139,6 +147,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 $("#openabstract").modal('show');
                
             },
+
+          
 
             closeview(type){
                 if(type == 'ex'){
