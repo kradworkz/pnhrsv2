@@ -92,3 +92,13 @@
     </div>
 </div>
  -->
+
+ <div class="modal fade" id="thanks" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="assets/images/landing/thanks.jpg" alt="" class="img-fluid" style="width: 1000px ; height: auto;">
+            </div>
+        </div>
+    </div>
+</div>

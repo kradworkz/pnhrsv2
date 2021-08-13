@@ -83,6 +83,11 @@
             <script src="assets/libs/owl.carousel/owl.carousel.min.js"></script>
             <script src="assets/js/pages/ico-landing.init.js"></script>
             <script src="assets/js/app.js"></script>
+            <script>
+            $(document).ready(function($) {
+                $("#thanks").modal('show');
+            });
+            </script>
             <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet' defer>
         </div>
     </body>
